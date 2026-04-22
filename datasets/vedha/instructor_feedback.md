@@ -1,0 +1,12 @@
+# Instructor Feedback on Initial Dataset
+
+Hi Vedha, 
+I think this topic is very interesting and you have done a good job documenting what you are collecting. I appreciate the amount of detail it looks like you put into your dataset to try to capture context and cultural relevance of each addition. 
+
+I have a few suggestions/comments to consider as you move into the final stage of this project: 
+1. Your relevant historical timeline is huge. Tracking 250 years of art history and every major, national political movement in America is an enormous undertaking. Some of the issues you are noting for scaling up (such as difficulty finding underrepresented groups/political movements) could be alleviated by focusing more specifically on one time period. For example, just the various political movements in the 1960s and 1970s and their associated art could fill your dataset. 
+2. Given the large time span you are currently working with, I think it is especially important to be cautious with your 'race_ethnicity_of_artist' category. Since race is a socially constructed concept that has shifted over time, it is important not to apply an anachronistic, present-day concept to the artist's identity. 
+3. Your political impact rating is confusing to me. Measuring actual political impact is an extremely difficult task. Based on many of the entries in your significance category, it seems that what you are actually often tracking is circulation. But just because hundreds, thousands, or millions of people see something does not mean that it has a measurable affect on their political opinions or actions. That being said, measuring the circulation is still a very interesting and completely valid way of studying cultural artifacts. You should consider what you are actually measuring here when you observe a political art piece with wide popularity or circulation. These things may help to build an argument for the piece's importance in a particular movement, but it is not an automatic indicator that the piece had tangible impact. 
+4. Did you use only art pieces from online catalogs? You should consider including links to the pieces you are referencing since otherwise the reader is required to look each of them up individually to get a visual context of the piece.
+
+Overall I think this is headed in a good direction. Your initial observations about the dataset seem to be revealing some interesting paths for analysis. Feel free to reach out to me if you have any questions. 
