@@ -1,8 +1,5 @@
 # State Immigration Law Sentiment Analysis
 
-**IS310 Culture as Data — UIUC Spring 2026 — Group 6**
-**Daria Meshcheriakova**
-
 ---
 
 ## Research Question
