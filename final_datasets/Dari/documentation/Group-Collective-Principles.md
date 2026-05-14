@@ -1,0 +1,113 @@
+# Group 6 — Collective Principles Document
+**IS310 Culture as Data | UIUC Spring 2026**
+**Members: Daria Meshcheriakova, Adin, Christina, Vedha, Ananya, Jasmitha**
+
+---
+
+*This document synthesizes what we collectively learned about working with cultural data. It is written as the documentation we wish had existed when we started — methodological guidance and collective wisdom for any future researcher attempting to represent cultural material as structured data.*
+
+---
+
+## Principle 1: Understand what your source is actually giving you before you build anything
+
+*What should someone know before they attempt to represent cultural material as data?*
+
+**Daria:**
+- Different sources covering the same cultural phenomenon return data at completely different levels of detail — one might give you a full text, another a two-sentence summary, another a four-word title. These are not interchangeable, and which one you use determines which methods can actually work on it.
+- The same item can appear across multiple databases in slightly different forms. Deduplication is not optional — without it you are counting the same thing twice and your totals mean nothing.
+- A curated database already reflects someone else's interpretive decisions about what belongs in it. The moment you use a pre-built source, you inherit those decisions whether you know it or not.
+- Some collections include items at different stages — drafts, proposals, finished works, rejected versions. You have to decide explicitly which ones to include and document that decision, because it will shape your findings either way.
+- Scaling a cultural dataset almost always means cleaning more than you expect. No two sources format the same thing the same way — the same state appeared as both "IL" and "Illinois" across my sources, the same bill appeared under different title capitalizations, and the same law showed up in multiple databases with slightly different descriptions. You do not get a clean, structured CSV handed to you. You build it, and building it is most of the work.
+
+**Adin:**
+
+**Christina:**
+
+**Vedha:**
+
+**Ananya:**
+
+**Jasmitha:**
+
+---
+
+## Principle 2: The gap between what a cultural artifact says and what it does is where the real analysis lives
+
+*What gets lost when you convert cultural material into structured data?*
+
+**Daria:**
+- A law titled "clarifies reasonable suspicion requirements" sounds neutral. It was actually written to make Arizona's most aggressive immigration enforcement law legally defensible. The surface language concealed the function entirely — and that gap only becomes visible when you read the political context, not the words alone.
+- Short descriptions embed someone else's interpretation before you even start. When a database summarizes a cultural object in one sentence, they have already made a reading. You are building on top of that framing without always knowing it.
+- A binary label forces a decision that the original material often does not. Many cultural objects do more than one thing at once, and a single category erases that complexity. The label is always a simplification — the question is whether you are honest about what it costs.
+- Data that looks complete can still be unreadable by a computational method. Four-word titles from the Arizona Legislature API existed as data, but a TF-IDF model assigned near-coin-flip scores to 524 out of 578 of those bills because titles carry almost no vocabulary. The data was there — the method simply could not read it.
+
+**Adin:**
+
+**Christina:**
+
+**Vedha:**
+
+**Ananya:**
+
+**Jasmitha:**
+
+---
+
+## Principle 3: Interpretive decisions must be made explicitly, documented honestly, and separated from computational outputs
+
+*What principles emerged for making judgment calls on cultural material that resists simple categorization?*
+
+**Daria:**
+- Training a model on your own labels means any pattern in your judgment gets learned and applied at scale across every unlabeled item. That is not a flaw — it is how the method works — but you have to acknowledge it rather than present the output as objective.
+- Testing a model on data it was trained on produces an accuracy number that is meaningless. Leave-One-Out cross-validation gives you an honest measure of performance on items the model has never seen — on small datasets, the difference between in-sample and held-out accuracy can be the difference between reporting something true and reporting something misleading.
+- Keeping a written reasoning note for each label — not just the label itself — forces you to articulate why, and that articulation reveals when your reasoning is consistent and when it is not. It is also the only way anyone can audit your decisions later.
+- When a model scores most items near the uncertain midpoint, that is information about your data, not your subject. It means the text is too sparse or too uniform for the method to find signal. That is a methodological finding worth reporting honestly.
+
+**Adin:**
+
+**Christina:**
+
+**Vedha:**
+
+**Ananya:**
+
+**Jasmitha:**
+
+---
+
+## Principle 4: Diverse approaches to similar material reveal what each method cannot see on its own
+
+*What did working on the same broad topic from different angles teach you about representing culture as data?*
+
+**Daria:**
+- I started with 67 manually labeled laws and scaled computationally to nearly 600. The manual labels were not separate from the computation — they were the training data that made it possible. The quality of the final output depended entirely on the quality of the first 21 items I read most carefully.
+- Collecting from three different sources over the semester produced a dataset with uneven text depth across rows. Applying the same method uniformly to all of them produced very different quality results. Scale without consistency is not always better than a smaller, more uniform dataset.
+- Keeping data in the dataset even when the model could not classify it reliably was a deliberate decision — and one worth making explicitly. The Arizona Legislature bills are in the dataset because they represent real cultural material. They are excluded from the scoring analysis because the model's output on them was noise. Future researchers should make that distinction on purpose, not by accident.
+- The six cases where the model disagreed with my manual labels were more informative than the twenty-four where it agreed. Disagreement between human judgment and computational output is not a failure — it is a signal pointing at exactly the places where surface language and deeper meaning come apart.
+
+**Adin:**
+
+**Christina:**
+
+**Vedha:**
+
+**Ananya:**
+
+**Jasmitha:**
+
+---
+
+## Member Contributions
+
+| Member | Contribution |
+|---|---|
+| Daria Meshcheriakova | Immigration law dataset (IL, CA, AZ 2009–2026); TF-IDF + logistic regression pipeline; manual labeling with written reasoning; data collection from NCSL, LegiScan, and Arizona Legislature API |
+| Adin | |
+| Christina | |
+| Vedha | |
+| Ananya | |
+| Jasmitha | |
+
+---
+
+*Submitted to Group 6 GitHub repository — CultureAsData-UIUC/is310-spring-2026-group-6*
