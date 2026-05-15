@@ -18,7 +18,7 @@ This folder contains **one combined, normalized dataset** of collection records 
 
 ---
 
-## Data dictionary (column semantics)
+## Data dictionary 
 
 | Column | Meaning |
 |--------|---------|
@@ -39,7 +39,7 @@ This folder contains **one combined, normalized dataset** of collection records 
 
 ---
 
-## How the dataset was made (computation + scale)
+## How the dataset was made 
 
 1. **Keyword search** using a shared list of American-history–oriented queries.  
 2. **Source-specific retrieval** (some APIs return full records; The Met often requires object-by-object follow-up).  
