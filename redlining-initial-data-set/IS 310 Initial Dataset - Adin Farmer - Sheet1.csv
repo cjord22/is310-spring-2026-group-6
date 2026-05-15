@@ -1,0 +1,64 @@
+District Number,Current Neighborhood,In City Limit,Class (and Occupation) from 1940s,Neighborhood Average Household Income (2020s),Neighborhood Same Name?,Shifting or Infiltration(1940s)
+A27,Forest Glen ,Y,Upper middle class,"$139,311 ±$19,789",N,None
+A28,Forest Glen ,Y,Upper middle class,"$139,311 ±$19,789",N,Desirable Class
+A29,Forest Glen ,Y,Upper middle class,"$139,311 ±$19,789",N,None
+A30,Lincoln Park,Y,Upper middle class,"$156,896 ±$13,703",Y,Good class apartment house occupants
+A31,Elmwood Park,N,Middle Class- some better,N/A,Y,Desirable Class
+A32,River Forest,N,Executives- professional men- business men,N/A,Y,None
+A33,River Forest,N,Executives- capitalists,N/A,Y,None
+A34,Gold Coast/ Near North Side,Y,Upper middle class- upper class,"$125,101 ±$9,568",Y,None
+A35,Beverly Hills,Y,Business and Professional,"$130,926 ±$15,474",Y,None
+A36,Beverly Hills,Y,Business and Professional,"$130,926 ±$15,474",Y,None
+A37,Beverly Hills,Y,Business and Professional,"$130,926 ±$15,474",Y,None
+B81,Austin,Y,Middle class- upper middle class,"$51,827 ±$7,411",N,Good class homeowner
+B82,Austin,Y,"Middle class- average annual income $1,800-3,000","$51,827 ±$7,411",N,Slowly- Polish
+B83,Austin,Y,"Middle class- ""white collar"" workers","$51,827 ±$7,411",N,None
+B84,Gold Coast/ Near North Side,Y,Middle and upper middle class,"$125,101 ±$9,568",Y,None
+B96,Streeterville/ Near North Side,Y,Middle and upper middle class,"$125,101 ±$9,568",Y,Empty
+B107,Hyde Park,Y,Business - Professional,"$77,009 ±$15,052",N,None
+B108,South Shore,Y,Business - Professional,"$45,587 ±$6,622",N,Jewish
+B108,South Shore,Y,Business - Professional,"$45,587 ±$6,622",N,Jewish
+B110,South Shore,Y,Business - Professional,"$45,587 ±$6,622",N,Jewish
+B111,South Shore,Y,Empty,"$45,587 ±$6,622",N,Empty
+B118,Chatham,Y,White collar- minor executives- merchants,"$48,332 ±$8,091",N,None
+B119,Chatham,Y,"Small business men, executives, white collar commuters, average income $3,500","$48,332 ±$8,091",N,None
+B120,Chatham,Y,"Small business men- executives- white collar commuters- professional- average income $3,500","$48,332 ±$8,091",N,None
+B121,Avalon Park,Y,"""White collar""- professional- mechanics- mill foremen- railroad men","$60,548 ±$27,717",N,None
+B124,Beverly Hills,Y,Business- Professional- Executive,"$130,926 ±$15,474",Y,None
+B125,Morgan Park,Y,Business- Professional- Executive,"$72,941 ±$12,919",Y,None
+B126,Morgan Park,Y,Business and Professional,"$72,941 ±$12,919",Y,None
+B129,Rosemoor/ Roseland,Y,"Mixed, business, professional, mechanics, etc.","54,362 ±$6,951",N,None
+C47,Albany Park,Y,Middle Class,"$87,084 ±$10,063",Y,Empty
+C55,Albany Park,Y,Middle class and lower middle class,"$87,084 ±$10,063",Y,Lower class Jewish
+C57,Albany Park,Y,Middle Class,"$87,084 ±$10,063",Y,Lower class Jewish
+C64,Rogers Park,Y,Middle and lower middle class,"$63,293 ±$5,931",Y,Jewish from Albany Park
+C65,Rogers Park,Y,Lower Middle Class,"$63,293 ±$5,931",Y,Empty
+C66,Rogers Park,Y,Middle and upper middle class,"$63,293 ±$5,931",Y,Empty
+C67,Rogers Park,Y,Middle Class,"$63,293 ±$5,931",Y,None
+C202,West Lawn,Y,Skilled mechanics- clerks- small business men,"$69,579 ±$10,795",N,None
+C203,West Lawn,Y,Mechanics- clerks- trainmen,"$69,579 ±$10,795",N,None
+C204,West Lawn,Y,Business men- white collar workers- skilled mechanics,"$69,579 ±$10,795",N,None
+C205,West + Chicago Lawn,Y,"Laborers- mill hands of a pretty fair type- average annual income $1,800"," $69,579 ±$10,795 and $54,011 ±$8,920",N,None
+C206,West + Chicago Lawn,Y,"Clerks- small business men- mechanics- average annual income $2,000"," $69,579 ±$10,795 and $54,011 ±$8,920",N,None
+C207,West Lawn,Y,Policemen- firemen- motormen- conductors,"$69,579 ±$10,795",N,None
+C208,Chicago Lawn,Y,"Factory workers- stockyard workers- clerks- average annual income $1,700","$54,011 ±$8,920",N,None
+C209,Chicago Lawn,Y,"Minor executives- technicians- artisans- average annual income $2,400","$54,011 ±$8,920",N,Empty
+C210,Chicago Lawn + West Englewood,Y,"Laboring class 90%- politicians- 10% average annual income $1,800","$54,011 ±$8,920 and $41,909 ±$7,678",N,None
+C211,Chicago Lawn,Y,Laborers- factory workers,"$54,011 ±$8,920",N,Slowly- Croatian- Italian from 35th & Wentworth which is a blighted area
+C264,Roseland,Y,Laborer,"54,362 ±$6,951",Y,Italian
+C269,West Pullman/ Gano,Y,Laborer,"$54,296 ±$9,803",Y,None
+D11,Lincoln Park,Y,Lower Class,"$156,896 ±$13,703",Y,Polish
+D12,Lincoln Park,Y,Lower Class,"$156,896 ±$13,703",Y,Italian
+D14,Lincoln Park,Y,Lower Class - relief,"$156,896 ±$13,703",Y,Italian- Negro slowly
+D15,Lincoln Park,Y,Lower middle and lower class,"$156,896 ±$13,703",Y,Italian- Negro slowly
+D30,Near North Side,Y,"Lower class- laborers- ""reliefers""","$125,101 ±$9,568",N,Negro- steadily
+D31,Near North Side,Y,Lower class- lower middle class,"$125,101 ±$9,568",N,Transient population
+D62,Mckinley Park and Brighton Park,Y,Skilled and unskilled labor,"$85,030 ±$18,254",N,"Polish, Irish, & German"
+D71,West Englewood + Englewood,Y,"Laborer, lower salary bracket","$41,909 ±$7,678 and $32,085 ±$5,980",N,"Mixed, Irish, Italian and Negro"
+D74,"Douglas, Grand Boulevard, Washington Park",Y,Laborer,"$60,403 ±$10,935, $58,523 ±$11,684 and $37,543 ±$9,470",N,Negro
+D83,"West Englewood, Englewood and Greater Grand Crossing",Y,Mixed- laborer and low-class wage-earner predominating,"$41,909 ±$7,678, $32,085 ±$5,980 and $42,358 ±$7,869",N,Low-class Jews from north
+D104,Mt. Greenwood,Y,Laboring,"$112,562 ±$13,075",Y,Lithuanian and Italian
+D105,Morgan Park,Y,Laborer,"$72,941 ±$12,919",Y,None
+D109,Morgan Park,Y,White collar- laborer- wage earner,"$72,941 ±$12,919",Y,None
+D110,Morgan Park,Y,Laborer- low-salaried workers,"$72,941 ±$12,919",Y,None
+D111,Morgan Park,Y,"Laborer- Pullman- Domestics, etc.","$72,941 ±$12,919",Y,None
