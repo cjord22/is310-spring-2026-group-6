@@ -1,4 +1,4 @@
-# Final dataset: American-history–oriented artworks (multi-museum aggregation)
+# Final dataset documentation
 
 This folder contains **one combined, normalized dataset** of collection records pulled **at scale** from several public museum APIs. Records are tied together with a shared column layout so rows from different institutions can be analyzed in one table. A small metadata file documents **how** the scrape was run (queries, counts, errors). The Python script reproduces the pipeline.
 
@@ -33,9 +33,9 @@ This folder contains **one combined, normalized dataset** of collection records 
 | `date_display` | Date or date range as a **display string** (not a normalized year type). |
 | `medium` | Materials / object type when available. |
 | `department` | Department or unit string when available (semantics differ by museum). |
-| `image_url` | Best-effort link to a collection image when the source exposes one. May be empty for rights or missing assets. |
+| `image_url` | Link to a collection image when the source exposes one |
 | `iiif_image_id` | Only populated for some Art Institute records (IIIF image identifier used to build IIIF URLs). |
-| `license_or_rights` | Short rights note or museum field (e.g. public domain / CC0-style access). **Always verify** at the institution before reuse in publication. |
+| `license_or_rights` | Short rights note or museum field (e.g. public domain / CC0-style access) |
 | `object_url` | Public object page on the museum site when available. |
 | `search_queries` | Which keyword(s) from our query list produced this hit (pipe- or list-separated in CSV vs JSONL). |
 | `raw_source` | JSON/text snapshot of the **original museum record** (or subset) for auditability and debugging. |
@@ -64,3 +64,17 @@ This folder contains **one combined, normalized dataset** of collection records 
 python3 -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+
+
+### 2) API keys
+| Source | Key Required? | How to get access |
+| :--- | :--- | :--- |
+| **Art Institute of Chicago** | No | Public API (no registration for basic read access). |
+| **The Met** | No | Public Collection API. |
+| **Cleveland Museum of Art** | No | Open Access API. |
+| **Harvard Art Museums** | **Yes** | Request a key via [Harvard Art Museums — API](https://harvardartmuseums.org/collections/api/). |
+
+Do not commit keys. In your terminal (same session you use to run the scraper):
+
+export HARVARD_ART_API_KEY="YOUR_KEY_HERE"
+Harvard rows are skipped if this variable is unset.
