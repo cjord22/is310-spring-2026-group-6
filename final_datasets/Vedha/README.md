@@ -114,13 +114,13 @@ df.head()
 
 ## Citations & institutional credit (APA-style examples)
 
-Art Institute of Chicago. (*n.d.*). *Art Institute of Chicago API documentation*. Retrieved May 15, 2026, from https://api.artic.edu/docs/
+Art Institute of Chicago. (*n.d.*). *Art Institute of Chicago API documentation*. Retrieved from https://api.artic.edu/docs/#quick-start
 
-Metropolitan Museum of Art. (*n.d.*). *The Met Collection API*. Retrieved May 15, 2026, from https://metmuseum.github.io/
+Metropolitan Museum of Art. (*n.d.*). *The Met Collection API*. Retrieved from https://metmuseum.github.io/
 
-Cleveland Museum of Art. (*n.d.*). *Open Access API*. Retrieved May 15, 2026, from https://openaccess-api.clevelandart.org/
+Cleveland Museum of Art. (*n.d.*). *Open Access API*. Retrieved from https://openaccess-api.clevelandart.org/
 
-Harvard Art Museums. (*n.d.*). *Harvard Art Museums API*. Retrieved May 15, 2026, from https://harvardartmuseums.org/collections/api/
+Harvard Art Museums. (*n.d.*). *Harvard Art Museums API*. Retrieved from https://harvardartmuseums.org/collections/api/
 
 ---
 
