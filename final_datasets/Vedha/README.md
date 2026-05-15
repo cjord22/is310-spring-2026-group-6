@@ -15,7 +15,6 @@ This folder contains **one combined, normalized dataset** of collection records 
 | `final_american_history_meta.json` | Run summary: timestamp, query list, per-`source` counts, API warnings/errors. |
 | `scrape_american_history_art.py` | Scraper + normalizer + dedupe + export. |
 | `requirements.txt` | Python dependencies (`requests`, etc.). |
-| `.gitignore` | Helps avoid committing local virtual environments and junk files. |
 
 ---
 
