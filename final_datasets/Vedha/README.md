@@ -25,7 +25,7 @@ This folder contains **one combined, normalized dataset** of collection records 
 
 | Column | Meaning |
 |--------|---------|
-| `uid` | Random UUID for this row in our dataset (not the museum’s ID). |
+| `uid` | Random UUID created by me as a unique identifier for this row in our dataset (not the museum’s ID). |
 | `source` | Which API the row came from: `artic` (Art Institute of Chicago), `met` (Metropolitan Museum), `cma` (Cleveland Museum of Art), `harvard` (Harvard Art Museums). |
 | `source_object_id` | The museum’s own identifier for the object (as a string). |
 | `title` | Object title when provided. |
