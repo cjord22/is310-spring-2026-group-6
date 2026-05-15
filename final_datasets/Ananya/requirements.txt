@@ -1,0 +1,6 @@
+pandas
+requests
+pymupdf
+altair
+jupyter
+vl-convert-python
