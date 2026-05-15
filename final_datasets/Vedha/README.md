@@ -20,8 +20,6 @@ This folder contains **one combined, normalized dataset** of collection records 
 
 ## Data dictionary (column semantics)
 
-> **Release note:** `description` and `culture` were **removed from the published table** because they were **often empty or inconsistent** after cross-museum normalization. Institution-specific fields can still be recovered from **`raw_source`** when needed.
-
 | Column | Meaning |
 |--------|---------|
 | `uid` | UUID generated for this dataset row (not the museum’s native ID). |
