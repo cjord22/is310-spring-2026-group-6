@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-05-15T18:52:20.496430+00:00",
+  "queries": [
+    "American history",
+    "United States",
+    "George Washington",
+    "American Revolution",
+    "Abraham Lincoln",
+    "American Civil War",
+    "Colonial America",
+    "American West"
+  ],
+  "record_count": 664,
+  "per_source_counts": {
+    "artic": 200,
+    "cma": 200,
+    "harvard": 200,
+    "met": 64
+  },
+  "errors": [
+    "met[George Washington]: 403 Client Error: Forbidden for url: https://collectionapi.metmuseum.org/public/collection/v1/search?q=George+Washington&hasImages=True",
+    "met[American Revolution]: 403 Client Error: Forbidden for url: https://collectionapi.metmuseum.org/public/collection/v1/search?q=American+Revolution&hasImages=True",
+    "met[Abraham Lincoln]: 403 Client Error: Forbidden for url: https://collectionapi.metmuseum.org/public/collection/v1/search?q=Abraham+Lincoln&hasImages=True",
+    "met[American Civil War]: 403 Client Error: Forbidden for url: https://collectionapi.metmuseum.org/public/collection/v1/search?q=American+Civil+War&hasImages=True",
+    "met[Colonial America]: 403 Client Error: Forbidden for url: https://collectionapi.metmuseum.org/public/collection/v1/search?q=Colonial+America&hasImages=True",
+    "met[American West]: 403 Client Error: Forbidden for url: https://collectionapi.metmuseum.org/public/collection/v1/search?q=American+West&hasImages=True"
+  ],
+  "outputs": {
+    "jsonl": "/Users/vedha/.cursor/projects/empty-window/art_museum_aggregate/final_american_history.jsonl",
+    "csv": "/Users/vedha/.cursor/projects/empty-window/art_museum_aggregate/final_american_history.csv"
+  }
+}
