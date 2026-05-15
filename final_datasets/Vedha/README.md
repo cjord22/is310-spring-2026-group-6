@@ -1,8 +1,8 @@
 # Final dataset documentation
 
-This folder contains **one combined, normalized dataset** of collection records pulled **at scale** from several public museum APIs. Records are tied together with a shared column layout so rows from different institutions can be analyzed in one table. A small metadata file documents **how** the scrape was run (queries, counts, errors). The Python script reproduces the pipeline.
+This folder contains **one combined, normalized dataset** of collection records pulled **at scale** from several public museum APIs. Records share a common column layout so rows from different institutions can be analyzed in one table. A small metadata JSON documents **how** the scrape was run (queries, counts, warnings/errors). The Python script reproduces the pipeline.
 
-**What this dataset is for:** studying how “American history” (as *text search*, not authoritative curation) surfaces through **museum catalog data and open-access images** across institutions—with all the skew that implies.
+**What this dataset supports:** examining how “American history” behaves as a **keyword-driven retrieval problem** across museum catalogs and open-access media—not as a neutral or complete historiographic sample.
 
 ---
 
@@ -10,49 +10,49 @@ This folder contains **one combined, normalized dataset** of collection records 
 
 | File | Role |
 |------|------|
-| `final_american_history.jsonl` | **Primary dataset** (one JSON object per line). Best for Python/pandas and strict typing. |
-| `final_american_history.csv` | Same rows in tabular form (easy for spreadsheets). Large `raw_source` cells. |
-| `final_american_history_meta.json` | **Run summary**: timestamp, keyword list, per-`source` row counts, warnings (e.g. failed API calls). |
-| `scrape_american_history_art.py` | Script that queries APIs, normalizes fields, dedupes, caps per source, writes outputs. |
+| `final_american_history.jsonl` | Primary dataset (**one JSON object per line**). Best for programmatic use (Python/R). |
+| `final_american_history.csv` | Same rows as CSV (**spreadsheet-friendly**). `raw_source` can be very wide. |
+| `final_american_history_meta.json` | Run summary: timestamp, query list, per-`source` counts, API warnings/errors. |
+| `scrape_american_history_art.py` | Scraper + normalizer + dedupe + export. |
 | `requirements.txt` | Python dependencies (`requests`, etc.). |
-| `.gitignore` | Keeps local virtualenv junk out of git (if you use one). |
+| `.gitignore` | Helps avoid committing local virtual environments and junk files. |
 
 ---
 
 ## Data dictionary (column semantics)
 
-> **Note on this submission:** `description` and `culture` were **dropped from the released table** because they were **often empty or noisy** after normalization, while other columns carried more reliable signal for our analysis. The full API payloads are still available inside `raw_source` if you need to recover institution-specific fields later.
+> **Release note:** `description` and `culture` were **removed from the published table** because they were **often empty or inconsistent** after cross-museum normalization. Institution-specific fields can still be recovered from **`raw_source`** when needed.
 
 | Column | Meaning |
 |--------|---------|
-| `uid` | Random UUID created by me as a unique identifier for this row in our dataset (not the museum’s ID). |
-| `source` | Which API the row came from: `artic` (Art Institute of Chicago), `met` (Metropolitan Museum), `cma` (Cleveland Museum of Art), `harvard` (Harvard Art Museums). |
-| `source_object_id` | The museum’s own identifier for the object (as a string). |
-| `title` | Object title when provided. |
-| `artist_display` | Creator / maker string when available (format varies by museum). |
-| `date_display` | Date or date range as a **display string** (not a normalized year type). |
+| `uid` | UUID generated for this dataset row (not the museum’s native ID). |
+| `source` | API origin: `artic`, `met`, `cma`, or `harvard`. |
+| `source_object_id` | Museum-native identifier (string). |
+| `title` | Title when provided. |
+| `artist_display` | Artist/maker string (format varies by museum). |
+| `date_display` | Date or date range as a **string** (not normalized to a single year). |
 | `medium` | Materials / object type when available. |
-| `department` | Department or unit string when available (semantics differ by museum). |
-| `image_url` | Link to a collection image when the source exposes one |
-| `iiif_image_id` | Only populated for some Art Institute records (IIIF image identifier used to build IIIF URLs). |
-| `license_or_rights` | Short rights note or museum field (e.g. public domain / CC0-style access) |
-| `object_url` | Public object page on the museum site when available. |
-| `search_queries` | Which keyword(s) from our query list produced this hit (pipe- or list-separated in CSV vs JSONL). |
-| `raw_source` | JSON/text snapshot of the **original museum record** (or subset) for auditability and debugging. |
+| `department` | Department or unit string when available (meaning differs by institution). |
+| `image_url` | Image URL when exposed by the API for that record. |
+| `iiif_image_id` | Present for some Art Institute rows (IIIF image id used in image URLs). |
+| `license_or_rights` | Short rights / access note from the source record (heuristic; verify at `object_url`). |
+| `object_url` | Public object page when available. |
+| `search_queries` | Which keyword(s) returned this row (format differs slightly between CSV vs JSONL). |
+| `raw_source` | JSON/text snapshot of the underlying museum payload (audit + debugging). |
 
-**Deduplication rule in the scraper:** rows are deduped by **(`source`, `source_object_id`)** so the same museum object is not repeated twice *within* a source. The same real-world artwork can still appear **across** museums as separate rows.
+**Deduping rule:** within each `source`, rows are deduped by **`(source, source_object_id)`**. The same physical artwork may still appear **across** museums as separate rows.
 
 ---
 
 ## How the dataset was made (computation + scale)
 
-1. **Keyword search** across a shared list of American-history–oriented phrases (e.g. “American Revolution,” “Abraham Lincoln,” etc.).  
-2. **API-specific retrieval:** some museums return rich objects in one call; others return IDs that require **per-object** follow-up requests (notably The Met).  
-3. **Normalization:** map heterogeneous JSON into the shared columns above.  
-4. **Deduping + capping:** enforce a maximum number of rows **per `source`** so one institution does not dominate only because its search index is huge.  
-5. **Write outputs:** JSONL + CSV + `*_meta.json`.
+1. **Keyword search** using a shared list of American-history–oriented queries.  
+2. **Source-specific retrieval** (some APIs return full records; The Met often requires object-by-object follow-up).  
+3. **Normalization** into the shared schema above.  
+4. **Deduping + per-source caps** to prevent one index from overwhelming the table.  
+5. **Export** to JSONL + CSV + `*_meta.json`.
 
-**What scale does here:** it surfaces *what is easy to index and tag as text* in each catalog, not “the complete universe of American history art.” That gap is interpretive, not just technical.
+**Interpretive point:** scale amplifies what is **searchable and digitized**, not what is historically “most important.”
 
 ---
 
@@ -62,19 +62,92 @@ This folder contains **one combined, normalized dataset** of collection records 
 
 ```bash
 python3 -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
+source .venv/bin/activate    # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-
+```
 
 ### 2) API keys
-| Source | Key Required? | How to get access |
-| :--- | :--- | :--- |
-| **Art Institute of Chicago** | No | Public API (no registration for basic read access). |
+
+| Source | Key required? | How to get access |
+|:--|:--|:--|
+| **Art Institute of Chicago** | No | Public API. |
 | **The Met** | No | Public Collection API. |
 | **Cleveland Museum of Art** | No | Open Access API. |
-| **Harvard Art Museums** | **Yes** | Request a key via [Harvard Art Museums — API](https://harvardartmuseums.org/collections/api/). |
+| **Harvard Art Museums** | **Yes** | [Harvard Art Museums API](https://harvardartmuseums.org/collections/api/) |
 
-Do not commit keys. In your terminal (same session you use to run the scraper):
+**Do not commit API keys.**
 
+```bash
 export HARVARD_ART_API_KEY="YOUR_KEY_HERE"
-Harvard rows are skipped if this variable is unset.
+```
+
+Harvard harvesting is skipped if this environment variable is not set.
+
+### 3) Run
+
+```bash
+python scrape_american_history_art.py \
+  --out final_american_history.jsonl \
+  --csv-out final_american_history.csv
+```
+
+Useful CLI flags:
+
+| Flag | Purpose |
+|------|---------|
+| `--max-per-source N` | Cap rows retained per institution after dedupe |
+| `--per-query-limit N` | Pull more matches per keyword before dedupe/caps |
+| `--sleep-met SECONDS` | Pause between Met object-detail requests |
+| `--inspect-only` | Print sample response structures (debugging only) |
+
+Show all flags:
+
+```bash
+python scrape_american_history_art.py --help
+```
+
+### 4) Read outputs (example)
+
+```python
+import pandas as pd
+
+df = pd.read_json("final_american_history.jsonl", lines=True)
+df.head()
+```
+
+---
+
+## Ethics, privacy, rights, and responsible use
+
+- **Rights are not guaranteed here.** Treat `license_or_rights` / `image_url` as pointers, not legal clearance. Confirm terms on **`object_url`** before publishing or widely redistributing images.  
+- **Structural bias:** acquisition, cataloging language, digitization budgets, Anglophone metadata, and search ranking shape results. Keyword “American history” yields **false positives** and **false negatives**.  
+- **People referenced in museum metadata:** public catalog data ≠ permission to speculate about individuals in unethical ways in derivative datasets or essays; handle names with proportionate care.  
+- **Responsible request volume:** bursty scraping can yield HTTP failures (historically noticeable with The Met for some networks). The script spacing is a mitigation, not permission for aggressive automation.  
+- **Reproducibility drift:** `_meta.json` logs issues; row counts can change if APIs change.
+
+---
+
+## Limitations (what the dataset conceals)
+
+- **Search relevance ≠ curatorial authority.** This is retrieval logic, not a canon.  
+- **Uneven image availability** across records and museums (rights gaps, incomplete media).  
+- **Dropped columns (`description`, `culture`)** reduce noise in the flattened table but **remove** usable fields from some museums—consult `raw_source`.  
+- **No cross-museum entity resolution:** duplicates across institutions are intentional absences here.
+
+---
+
+## Citations & institutional credit (APA-style examples)
+
+Adapt if your syllabus requires fuller entries or different retrieval dates.
+
+Art Institute of Chicago. (*n.d.*). *Art Institute of Chicago API documentation*. Retrieved May 15, 2026, from https://api.artic.edu/docs/
+
+Metropolitan Museum of Art. (*n.d.*). *The Met Collection API*. Retrieved May 15, 2026, from https://metmuseum.github.io/
+
+Cleveland Museum of Art. (*n.d.*). *Open Access API*. Retrieved May 15, 2026, from https://openaccess-api.clevelandart.org/
+
+Harvard Art Museums. (*n.d.*). *Harvard Art Museums API*. Retrieved May 15, 2026, from https://harvardartmuseums.org/collections/api/
+
+---
+
+
