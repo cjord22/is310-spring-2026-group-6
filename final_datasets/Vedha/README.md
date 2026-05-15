@@ -112,28 +112,7 @@ df.head()
 
 ---
 
-## Ethics, privacy, rights, and responsible use
-
-- **Rights are not guaranteed here.** Treat `license_or_rights` / `image_url` as pointers, not legal clearance. Confirm terms on **`object_url`** before publishing or widely redistributing images.  
-- **Structural bias:** acquisition, cataloging language, digitization budgets, Anglophone metadata, and search ranking shape results. Keyword “American history” yields **false positives** and **false negatives**.  
-- **People referenced in museum metadata:** public catalog data ≠ permission to speculate about individuals in unethical ways in derivative datasets or essays; handle names with proportionate care.  
-- **Responsible request volume:** bursty scraping can yield HTTP failures (historically noticeable with The Met for some networks). The script spacing is a mitigation, not permission for aggressive automation.  
-- **Reproducibility drift:** `_meta.json` logs issues; row counts can change if APIs change.
-
----
-
-## Limitations (what the dataset conceals)
-
-- **Search relevance ≠ curatorial authority.** This is retrieval logic, not a canon.  
-- **Uneven image availability** across records and museums (rights gaps, incomplete media).  
-- **Dropped columns (`description`, `culture`)** reduce noise in the flattened table but **remove** usable fields from some museums—consult `raw_source`.  
-- **No cross-museum entity resolution:** duplicates across institutions are intentional absences here.
-
----
-
 ## Citations & institutional credit (APA-style examples)
-
-Adapt if your syllabus requires fuller entries or different retrieval dates.
 
 Art Institute of Chicago. (*n.d.*). *Art Institute of Chicago API documentation*. Retrieved May 15, 2026, from https://api.artic.edu/docs/
 
