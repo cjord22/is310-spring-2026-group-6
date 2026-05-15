@@ -24,7 +24,6 @@ This dataset does not conflict with many privacy and ethical considerations, as 
 
 However, it can be noted that the reception of this dataset may sway individuals to view bill counts as a primary measure of a state legislator’s success, which may “flatten” the role and true impact that these legislators have on the communities that they serve. Simple policy counts cannot fully share how many individuals these policymakers impacted positively or negatively across their terms.
 
-## How this dataset is situated in Peer Reviewed Scholarship
 
 ## Dataset Documentation
 
