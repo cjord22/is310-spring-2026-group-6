@@ -23,6 +23,9 @@
 **Christina:**
 
 **Vedha:**
+- Working with museum APIs showed me that “available data” is already a filtered version of cultural history. Even when scraping at scale, what is returned is shaped by institutional tagging systems, search rankings, and what has been digitized in the first place. This means the dataset is not discovering culture, but reproducing what institutions have made searchable.
+- I learned that even simple fields like title, medium, or date are not neutral. They depend on cataloging standards that vary across museums, which makes normalization a required but interpretively loaded step.
+- A major hidden decision is query design. The keywords used to pull data effectively determine what cultural objects appear in the dataset before any analysis even begins.
 
 **Ananya:**
 
@@ -45,6 +48,9 @@
 **Christina:**
 
 **Vedha:**
+- In building a cultural dataset of politically significant artworks, I found that metadata often replaces interpretation rather than supporting it. A field like “political context” looks descriptive, but it already compresses complex historical events into a single framing.
+- Even when using structured museum data, meaning shifts depending on how an object is described versus how it is interpreted in historical scholarship. The same artwork can appear neutral in metadata but deeply political in historical context.
+- Converting cultural objects into rows and columns inevitably strips away ambiguity, especially in works where political meaning changes over time or depends on audience reception.
 
 **Ananya:**
 
@@ -67,6 +73,9 @@
 **Christina:**
 
 **Vedha:**
+- In my project, I initially experimented with AI-assisted annotation for describing artworks, but found that it tended to flatten interpretation into generic summaries. This reinforced the importance of keeping interpretive work separate from computational pipelines.
+- Removing fields like political impact rating and identity categories made me realize that some of the most important analytical decisions are actually about what not to encode.
+- Documentation became as important as the dataset itself, especially in explaining why certain variables were removed or reframed.
 
 **Ananya:**
 
@@ -89,6 +98,9 @@
 **Christina:**
 
 **Vedha:**
+- Working with museum datasets alongside scraping workflows showed me that different institutions structure the same cultural object in incompatible ways, which makes “standardization” itself an interpretive act.
+- Combining scraped metadata with manual cleaning revealed that scale introduces not just more data, but more uncertainty about what counts as a consistent unit of analysis.
+- Comparing entries across museum APIs made visible how institutional visibility shapes cultural narratives, since certain periods and mediums appear far more frequently depending on the source.
 
 **Ananya:**
 
@@ -103,6 +115,6 @@
 | Daria Meshcheriakova | Immigration law dataset (IL, CA, AZ 2009–2026); TF-IDF + logistic regression pipeline; manual labeling with written reasoning; data collection from NCSL, LegiScan, and Urgan Non-profile API
 | Adin | |
 | Christina | |
-| Vedha | |
+| Vedha | Cultural art dataset (American political visual culture, 18th–19th century); museum API scraping (Art Institute of Chicago, Met, Cleveland Museum of Art, Harvard Art Museums); Python-based scraping and CSV normalization; dataset design, cleaning and interpretive restructuring|
 | Ananya | |
 | Jasmitha | |
