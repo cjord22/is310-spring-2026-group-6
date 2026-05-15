@@ -37,8 +37,6 @@ This folder contains **one combined, normalized dataset** of collection records 
 | `search_queries` | Which keyword(s) returned this row (format differs slightly between CSV vs JSONL). |
 | `raw_source` | JSON/text snapshot of the underlying museum payload (audit + debugging). |
 
-**Deduping rule:** within each `source`, rows are deduped by **`(source, source_object_id)`**. The same physical artwork may still appear **across** museums as separate rows.
-
 ---
 
 ## How the dataset was made (computation + scale)
