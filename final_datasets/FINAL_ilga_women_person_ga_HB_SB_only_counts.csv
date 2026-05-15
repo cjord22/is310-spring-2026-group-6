@@ -1,0 +1,597 @@
+ID,cawp_name,ilga_name,chamber,general_assembly,ilga_all_bills_count,ilga_primary_bills_count,ilga_cosponsored_bills_count,ilga_healthcare_all_count,ilga_healthcare_primary_count,ilga_healthcare_cosponsored_count,ilga_employment_all_count,ilga_employment_primary_count,ilga_employment_cosponsored_count,ilga_education_children_all_count,ilga_education_children_primary_count,ilga_education_children_cosponsored_count
+9052c,Annazette R. Collins,Annazette Collins,House,93,146,27,119,16,0,16,5,1,4,32,3,29
+194309k,Barbara Flynn Currie,Barbara Flynn Currie,House,93,588,59,529,40,0,40,74,1,73,57,7,50
+11216c,Careen M. Gordon,Careen Gordon,House,93,108,12,96,11,0,11,10,1,9,10,2,8
+2710c,Carole Pankau,Carole Pankau,House,93,53,17,36,8,0,8,1,1,0,4,0,4
+2714c,Carolyn H. Krause,Carolyn H. Krause,House,93,128,35,93,21,5,16,7,2,5,21,5,16
+3962c,Constance A. Howard,Constance A. Howard,House,93,190,52,138,30,8,22,11,5,6,32,5,27
+208356k,Cynthia Soto,Cynthia Soto,House,93,217,35,182,35,7,28,11,2,9,35,9,26
+10713c,Deborah L. Graham,Deborah L. Graham,House,93,220,23,197,30,2,28,10,0,10,44,3,41
+3966c,Eileen Lyons,Eileen Lyons,House,93,191,39,152,31,1,30,3,0,3,37,11,26
+212690k,Elaine Nekritz,Elaine Nekritz,House,93,195,44,151,28,3,25,9,0,9,36,5,31
+5297c,Elizabeth Coulson,Elizabeth Coulson,House,93,341,70,271,106,30,76,13,1,12,54,11,43
+11139c,JoAnn D. Osmond,JoAnn D. Osmond,House,93,128,22,106,13,2,11,2,0,2,17,4,13
+6457c,Julie Hamos,Julie Hamos,House,93,214,57,157,30,5,25,7,2,5,25,6,19
+9051c,Karen A. Yarbrough,Karen A. Yarbrough,House,93,276,24,252,36,3,33,12,1,11,46,0,46
+10129c,Kathleen A. Ryg,Kathleen A. Ryg,House,93,247,42,205,46,10,36,5,0,5,31,0,31
+271c,Kathleen L. Wojcik,Kathleen L. Wojcik,House,93,2,2,0,0,0,0,0,0,0,0,0,0
+212697k,Linda Chapa LaVia,Linda Chapa LaVia,House,93,401,32,369,47,2,45,23,1,22,67,7,60
+11217c,Lisa M. Dugan,Lisa M. Dugan,House,93,116,8,108,17,1,16,8,1,7,13,1,12
+265c,Lovana S. Jones,Lovana Jones,House,93,195,47,148,20,6,14,4,0,4,29,6,23
+10125c,Maria Antonia Berrios,Maria Antonia Berrios,House,93,227,22,205,24,2,22,42,2,40,40,2,38
+386896k,Mary E. Flowers,Mary E. Flowers,House,93,293,90,203,72,26,46,17,1,16,61,32,29
+5301c,Mary K. O'Brien,Mary K. O'Brien,House,93,167,69,98,8,0,8,7,4,3,19,4,15
+194311k,Monique D. Davis,Monique D. Davis,House,93,465,59,406,42,3,39,17,1,16,78,21,57
+10137c,Naomi D. Jakobsson,Naomi D. Jakobsson,House,93,242,23,219,24,0,24,12,2,10,46,6,40
+10122c,Patricia Bailey,Patricia Bailey,House,93,268,29,239,33,0,33,10,1,9,46,2,44
+194331k,Patricia R. Bellock,Patricia R. Bellock,House,93,334,54,280,84,12,72,7,0,7,55,9,46
+2720c,Patricia Reid Lindner,Patricia Reid Lindner,House,93,179,42,137,27,2,25,6,2,4,32,11,21
+6250c,Renee Kosel,Renee Kosel,House,93,128,25,103,19,6,13,2,1,1,38,9,29
+5361c,Ricca C. Slone,Ricca Slone,House,93,198,41,157,18,1,17,7,3,4,20,2,18
+212680k,Robin L. Kelly,Robin Kelly,House,93,257,32,225,32,2,30,13,1,12,56,7,49
+9063c,Rosemary Kurtz,Rosemary Kurtz,House,93,150,27,123,25,0,25,8,1,7,28,4,24
+2713c,Rosemary Mulligan,Rosemary Mulligan,House,93,219,46,173,50,9,41,9,1,8,60,14,46
+11138c,Ruth Munson,Ruth Munson,House,93,103,18,85,11,0,11,4,0,4,13,5,8
+10126c,Sandra M. Pihos,Sandra M. Pihos,House,93,266,25,241,41,3,38,6,1,5,49,8,41
+194298k,Sara Feigenholtz,Sara Feigenholtz,House,93,318,76,242,74,29,45,10,2,8,35,5,30
+6460c,Suzanne Bassi,Suzanne Bassi,House,93,136,25,111,26,9,17,4,0,4,16,2,14
+272c,Wyvetter H. Younge,Wyvetter H. Younge,House,93,207,109,98,20,5,15,3,1,2,20,5,15
+245c,Adeline Jay Geo-Karis,Adeline Jay Geo-Karis,Senate,93,57,10,47,6,0,6,6,1,5,6,2,4
+6456c,Carol Ronen,Carol Ronen,Senate,93,181,123,58,35,28,7,66,61,5,18,12,6
+194248k,Christine Radogno,Christine Radogno,Senate,93,185,83,102,23,6,17,7,2,5,23,13,10
+11852c,Deanna Demuzio,Deanna Demuzio,Senate,93,12,3,9,1,1,0,2,0,2,3,2,1
+212706k,Jacqueline Y. Collins,Jacqueline Y. Collins,Senate,93,311,51,260,48,5,43,12,2,10,49,5,44
+271c,Kathleen L. Wojcik,Kathleen L. Wojcik,Senate,93,76,18,58,24,3,21,1,0,1,9,2,7
+193900k,Kimberly A. Lightford,Kimberly A. Lightford,Senate,93,245,110,135,28,9,19,15,6,9,71,32,39
+5360c,M. Maggie Crotty,M. Maggie Crotty,Senate,93,218,74,144,46,16,30,7,2,5,45,19,26
+214463k,Mattie Hunter,Mattie Hunter,Senate,93,429,82,347,68,29,39,16,1,15,66,15,51
+214519k,Pamela J. Althoff,Pamela J. Althoff,Senate,93,107,23,84,12,2,10,2,0,2,14,4,10
+6461c,Susan Garrett,Susan Garrett,Senate,93,229,81,148,37,10,27,6,2,4,35,10,25
+9052c,Annazette R. Collins,Annazette Collins,House,94,200,26,174,19,0,19,6,0,6,30,5,25
+194309k,Barbara Flynn Currie,Barbara Flynn Currie,House,94,912,36,876,44,4,40,72,1,71,64,6,58
+2714c,Carolyn H. Krause,Carolyn H. Krause,House,94,119,27,92,27,5,22,3,1,2,10,0,10
+3962c,Constance A. Howard,Constance A. Howard,House,94,161,35,126,25,6,19,6,2,4,22,1,21
+208356k,Cynthia Soto,Cynthia Soto,House,94,233,22,211,29,2,27,12,3,9,45,9,36
+10713c,Deborah L. Graham,Deborah L. Graham,House,94,212,20,192,19,1,18,6,0,6,27,1,26
+3966c,Eileen Lyons,Eileen Lyons,House,94,93,13,80,17,0,17,3,1,2,10,2,8
+212690k,Elaine Nekritz,Elaine Nekritz,House,94,185,39,146,24,0,24,3,0,3,23,2,21
+5297c,Elizabeth Coulson,Elizabeth Coulson,House,94,337,89,248,60,16,44,5,1,4,52,8,44
+12454c,Esther Golar,Esther Golar,House,94,61,5,56,4,0,4,2,0,2,12,2,10
+247264k,Jil W. Tracy,Jil Tracy,House,94,6,2,4,0,0,0,0,0,0,0,0,0
+11139c,JoAnn D. Osmond,JoAnn D. Osmond,House,94,106,26,80,14,3,11,3,0,3,12,6,6
+6457c,Julie Hamos,Julie Hamos,House,94,156,42,114,29,13,16,8,2,6,19,2,17
+9051c,Karen A. Yarbrough,Karen A. Yarbrough,House,94,340,31,309,36,3,33,12,0,12,45,6,39
+10129c,Kathleen A. Ryg,Kathleen A. Ryg,House,94,271,52,219,46,10,36,8,1,7,29,3,26
+212697k,Linda Chapa LaVia,Linda Chapa LaVia,House,94,488,47,441,52,2,50,21,1,20,70,11,59
+11217c,Lisa M. Dugan,Lisa M. Dugan,House,94,323,21,302,33,4,29,17,0,17,30,2,28
+265c,Lovana S. Jones,Lovana Jones,House,94,230,31,199,11,4,7,7,1,6,22,3,19
+10125c,Maria Antonia Berrios,Maria Antonia Berrios,House,94,154,11,143,19,1,18,8,1,7,26,1,25
+386896k,Mary E. Flowers,Mary E. Flowers,House,94,194,57,137,44,15,29,5,1,4,35,11,24
+11481c,Michelle Chavez,Michelle Chavez,House,94,189,9,180,24,0,24,8,0,8,31,4,27
+194311k,Monique D. Davis,Monique D. Davis,House,94,478,121,357,28,7,21,12,7,5,60,16,44
+10137c,Naomi D. Jakobsson,Naomi D. Jakobsson,House,94,299,36,263,40,4,36,12,4,8,38,1,37
+10122c,Patricia Bailey,Patricia Bailey,House,94,120,7,113,7,1,6,4,2,2,14,1,13
+194331k,Patricia R. Bellock,Patricia R. Bellock,House,94,291,44,247,59,14,45,3,1,2,38,6,32
+2720c,Patricia Reid Lindner,Patricia Reid Lindner,House,94,144,48,96,16,1,15,2,1,1,17,3,14
+6250c,Renee Kosel,Renee Kosel,House,94,95,27,68,5,0,5,6,2,4,21,8,13
+212680k,Robin L. Kelly,Robin Kelly,House,94,239,24,215,25,0,25,8,4,4,35,1,34
+2713c,Rosemary Mulligan,Rosemary Mulligan,House,94,124,20,104,28,5,23,1,0,1,15,0,15
+11138c,Ruth Munson,Ruth Munson,House,94,165,45,120,17,3,14,7,4,3,16,2,14
+10126c,Sandra M. Pihos,Sandra M. Pihos,House,94,217,28,189,30,0,30,1,0,1,35,6,29
+194298k,Sara Feigenholtz,Sara Feigenholtz,House,94,272,53,219,64,13,51,2,1,1,29,6,23
+6460c,Suzanne Bassi,Suzanne Bassi,House,94,88,20,68,10,2,8,1,1,0,18,2,16
+272c,Wyvetter H. Younge,Wyvetter H. Younge,House,94,220,63,157,18,3,15,5,0,5,25,0,25
+245c,Adeline Jay Geo-Karis,Adeline Jay Geo-Karis,Senate,94,56,10,46,3,0,3,7,0,7,6,1,5
+6456c,Carol Ronen,Carol Ronen,Senate,94,180,132,48,61,60,1,11,7,4,28,23,5
+2710c,Carole Pankau,Carole Pankau,Senate,94,52,24,28,5,3,2,5,3,2,4,2,2
+12449c,Cheryl Axley,Cheryl Axley,Senate,94,76,12,64,3,0,3,3,1,2,7,3,4
+194248k,Christine Radogno,Christine Radogno,Senate,94,154,50,104,11,2,9,5,3,2,9,3,6
+11852c,Deanna Demuzio,Deanna Demuzio,Senate,94,164,71,93,15,4,11,8,4,4,21,10,11
+212706k,Jacqueline Y. Collins,Jacqueline Y. Collins,Senate,94,341,61,280,52,3,49,15,3,12,56,11,45
+271c,Kathleen L. Wojcik,Kathleen L. Wojcik,Senate,94,28,10,18,3,2,1,0,0,0,2,1,1
+193900k,Kimberly A. Lightford,Kimberly A. Lightford,Senate,94,169,80,89,26,11,15,11,6,5,71,45,26
+5360c,M. Maggie Crotty,M. Maggie Crotty,Senate,94,243,105,138,34,12,22,7,2,5,29,11,18
+214463k,Mattie Hunter,Mattie Hunter,Senate,94,366,91,275,49,10,39,18,4,14,51,19,32
+214519k,Pamela J. Althoff,Pamela J. Althoff,Senate,94,314,69,245,24,4,20,17,4,13,24,4,20
+6461c,Susan Garrett,Susan Garrett,Senate,94,230,144,86,26,14,12,2,1,1,27,16,11
+9052c,Annazette R. Collins,Annazette Collins,House,95,141,10,131,20,0,20,6,0,6,23,4,19
+194309k,Barbara Flynn Currie,Barbara Flynn Currie,House,95,875,44,831,57,4,53,69,0,69,75,9,66
+2714c,Carolyn H. Krause,Carolyn H. Krause,House,95,161,22,139,27,3,24,7,0,7,30,2,28
+3962c,Constance A. Howard,Constance A. Howard,House,95,209,41,168,32,4,28,7,0,7,30,1,29
+208356k,Cynthia Soto,Cynthia Soto,House,95,279,29,250,47,7,40,20,5,15,57,7,50
+10713c,Deborah L. Graham,Deborah L. Graham,House,95,201,23,178,24,2,22,5,0,5,44,1,43
+212690k,Elaine Nekritz,Elaine Nekritz,House,95,221,59,162,26,6,20,6,1,5,31,6,25
+5297c,Elizabeth Coulson,Elizabeth Coulson,House,95,508,147,361,98,26,72,10,0,10,78,19,59
+250823k,Elizabeth Hernandez,Elizabeth Hernandez,House,95,348,38,310,61,15,46,10,1,9,74,9,65
+12454c,Esther Golar,Esther Golar,House,95,259,31,228,36,7,29,11,1,10,68,10,58
+247264k,Jil W. Tracy,Jil Tracy,House,95,170,29,141,15,1,14,10,2,8,21,2,19
+11139c,JoAnn D. Osmond,JoAnn D. Osmond,House,95,195,44,151,16,0,16,8,1,7,18,5,13
+6457c,Julie Hamos,Julie Hamos,House,95,175,53,122,27,9,18,7,5,2,22,4,18
+9051c,Karen A. Yarbrough,Karen A. Yarbrough,House,95,432,43,389,46,9,37,15,1,14,51,3,48
+10129c,Kathleen A. Ryg,Kathleen A. Ryg,House,95,261,58,203,50,9,41,8,5,3,45,3,42
+212697k,Linda Chapa LaVia,Linda Chapa LaVia,House,95,543,66,477,58,5,53,11,1,10,105,14,91
+11217c,Lisa M. Dugan,Lisa M. Dugan,House,95,259,38,221,36,7,29,11,2,9,43,4,39
+10125c,Maria Antonia Berrios,Maria Antonia Berrios,House,95,193,16,177,35,0,35,8,1,7,42,4,38
+386896k,Mary E. Flowers,Mary E. Flowers,House,95,241,80,161,53,16,37,11,1,10,47,25,22
+194311k,Monique D. Davis,Monique D. Davis,House,95,561,41,520,26,0,26,19,4,15,72,16,56
+10137c,Naomi D. Jakobsson,Naomi D. Jakobsson,House,95,365,50,315,69,3,66,11,2,9,63,14,49
+194331k,Patricia R. Bellock,Patricia R. Bellock,House,95,394,51,343,81,19,62,8,0,8,72,6,66
+2720c,Patricia Reid Lindner,Patricia Reid Lindner,House,95,174,55,119,31,14,17,5,2,3,30,8,22
+212680k,Robin L. Kelly,Robin Kelly,House,95,1,1,0,0,0,0,0,0,0,0,0,0
+2713c,Rosemary Mulligan,Rosemary Mulligan,House,95,228,44,184,53,14,39,10,1,9,45,8,37
+11138c,Ruth Munson,Ruth Munson,House,95,223,41,182,21,4,17,8,1,7,40,3,37
+10126c,Sandra M. Pihos,Sandra M. Pihos,House,95,349,28,321,40,6,34,12,0,12,78,10,68
+12578c,Sandy Cole,Sandy Cole,House,95,213,20,193,30,1,29,9,0,9,32,3,29
+194298k,Sara Feigenholtz,Sara Feigenholtz,House,95,302,65,237,94,20,74,4,1,3,37,8,29
+6460c,Suzanne Bassi,Suzanne Bassi,House,95,127,19,108,12,1,11,5,0,5,31,3,28
+272c,Wyvetter H. Younge,Wyvetter H. Younge,House,95,149,61,88,17,4,13,4,1,3,20,1,19
+6456c,Carol Ronen,Carol Ronen,Senate,95,57,29,28,16,12,4,1,0,1,2,1,1
+2710c,Carole Pankau,Carole Pankau,Senate,95,101,33,68,13,9,4,4,1,3,12,2,10
+194248k,Christine Radogno,Christine Radogno,Senate,95,136,46,90,20,3,17,4,0,4,8,6,2
+11852c,Deanna Demuzio,Deanna Demuzio,Senate,95,283,150,133,32,9,23,11,6,5,62,42,20
+262758k,Heather A. Steans,Heather Steans,Senate,95,82,17,65,13,1,12,2,0,2,14,2,12
+212706k,Jacqueline Y. Collins,Jacqueline Y. Collins,Senate,95,348,82,266,51,6,45,8,3,5,70,15,55
+193900k,Kimberly A. Lightford,Kimberly A. Lightford,Senate,95,193,68,125,37,6,31,9,5,4,66,35,31
+250812k,Linda Holmes,Linda Holmes,Senate,95,157,38,119,21,7,14,6,0,6,27,8,19
+5360c,M. Maggie Crotty,M. Maggie Crotty,Senate,95,243,92,151,43,9,34,4,0,4,33,9,24
+214463k,Mattie Hunter,Mattie Hunter,Senate,95,385,81,304,47,15,32,13,5,8,47,19,28
+214519k,Pamela J. Althoff,Pamela J. Althoff,Senate,95,377,109,268,41,3,38,14,6,8,32,8,24
+6461c,Susan Garrett,Susan Garrett,Senate,95,212,117,95,40,27,13,10,7,3,30,18,12
+9052c,Annazette R. Collins,Annazette Collins,House,96,109,27,82,16,0,16,2,0,2,20,3,17
+194309k,Barbara Flynn Currie,Barbara Flynn Currie,House,96,1319,96,1223,62,7,55,64,5,59,86,10,76
+14743c,Betsy Hannig,Betsy Hannig,House,96,34,10,24,6,1,5,2,1,1,6,0,6
+293933k,Camille Y. Lilly,Camille Y Lilly,House,96,10,0,10,2,0,2,0,0,0,2,0,2
+281238k,Carol A. Sente,Carol A. Sente,House,96,134,15,119,14,2,12,8,0,8,12,2,10
+3962c,Constance A. Howard,Constance A. Howard,House,96,180,37,143,18,3,15,9,4,5,22,3,19
+208356k,Cynthia Soto,Cynthia Soto,House,96,254,19,235,41,4,37,11,0,11,54,10,44
+13770c,Darlene J. Senger,Darlene J. Senger,House,96,223,42,181,18,2,16,18,6,12,33,9,24
+10713c,Deborah L. Graham,Deborah L. Graham,House,96,130,17,113,24,2,22,9,2,7,18,3,15
+212690k,Elaine Nekritz,Elaine Nekritz,House,96,199,71,128,14,4,10,6,1,5,16,8,8
+5297c,Elizabeth Coulson,Elizabeth Coulson,House,96,368,77,291,57,10,47,13,2,11,57,14,43
+250823k,Elizabeth Hernandez,Elizabeth Hernandez,House,96,252,42,210,50,15,35,14,2,12,52,12,40
+12454c,Esther Golar,Esther Golar,House,96,211,28,183,34,8,26,8,1,7,59,8,51
+247264k,Jil W. Tracy,Jil Tracy,House,96,133,33,100,12,5,7,8,3,5,20,3,17
+11139c,JoAnn D. Osmond,JoAnn D. Osmond,House,96,155,43,112,16,2,14,3,0,3,15,5,10
+6457c,Julie Hamos,Julie Hamos,House,96,126,37,89,16,5,11,5,1,4,7,3,4
+9051c,Karen A. Yarbrough,Karen A. Yarbrough,House,96,258,47,211,30,4,26,6,1,5,30,5,25
+10129c,Kathleen A. Ryg,Kathleen A. Ryg,House,96,171,49,122,44,10,34,6,1,5,20,1,19
+13760c,Kay Hatcher,Kay Hatcher,House,96,239,24,215,20,1,19,11,2,9,32,1,31
+212697k,Linda Chapa LaVia,Linda Chapa LaVia,House,96,420,82,338,32,7,25,21,3,18,83,27,56
+11217c,Lisa M. Dugan,Lisa M. Dugan,House,96,268,51,217,22,1,21,19,3,16,37,6,31
+10125c,Maria Antonia Berrios,Maria Antonia Berrios,House,96,191,20,171,51,5,46,9,2,7,29,2,27
+386896k,Mary E. Flowers,Mary E. Flowers,House,96,158,70,88,30,15,15,6,1,5,31,22,9
+194311k,Monique D. Davis,Monique D. Davis,House,96,248,52,196,21,1,20,12,5,7,60,14,46
+10137c,Naomi D. Jakobsson,Naomi D. Jakobsson,House,96,301,69,232,54,7,47,18,8,10,49,14,35
+194331k,Patricia R. Bellock,Patricia R. Bellock,House,96,431,72,359,72,23,49,12,1,11,46,11,35
+287099k,Robyn Gabel,Robyn Gabel,House,96,16,2,14,5,1,4,2,0,2,1,0,1
+2713c,Rosemary Mulligan,Rosemary Mulligan,House,96,196,41,155,32,3,29,9,4,5,25,3,22
+10126c,Sandra M. Pihos,Sandra M. Pihos,House,96,293,48,245,35,8,27,9,2,7,55,13,42
+12578c,Sandy Cole,Sandy Cole,House,96,217,16,201,20,1,19,10,1,9,22,2,20
+194298k,Sara Feigenholtz,Sara Feigenholtz,House,96,224,47,177,51,17,34,2,0,2,21,3,18
+6460c,Suzanne Bassi,Suzanne Bassi,House,96,119,26,93,6,1,5,1,1,0,21,3,18
+2710c,Carole Pankau,Carole Pankau,Senate,96,62,38,24,12,10,2,3,2,1,6,3,3
+194248k,Christine Radogno,Christine Radogno,Senate,96,239,197,42,9,8,1,13,11,2,16,12,4
+11852c,Deanna Demuzio,Deanna Demuzio,Senate,96,250,132,118,40,15,25,10,7,3,51,32,19
+262758k,Heather A. Steans,Heather Steans,Senate,96,233,105,128,35,19,16,12,7,5,39,15,24
+212706k,Jacqueline Y. Collins,Jacqueline Y. Collins,Senate,96,318,74,244,37,8,29,15,0,15,44,5,39
+193900k,Kimberly A. Lightford,Kimberly A. Lightford,Senate,96,180,63,117,21,3,18,12,5,7,39,22,17
+250812k,Linda Holmes,Linda Holmes,Senate,96,178,63,115,10,4,6,9,4,5,21,7,14
+5360c,M. Maggie Crotty,M. Maggie Crotty,Senate,96,144,48,96,16,7,9,3,0,3,21,7,14
+214463k,Mattie Hunter,Mattie Hunter,Senate,96,273,77,196,52,26,26,12,4,8,43,14,29
+214519k,Pamela J. Althoff,Pamela J. Althoff,Senate,96,298,97,201,28,1,27,19,7,12,38,8,30
+6461c,Susan Garrett,Susan Garrett,Senate,96,149,75,74,13,6,7,12,6,6,22,12,10
+291406k,Ann M. Williams,Ann Williams,House,97,138,45,93,23,3,20,5,0,5,20,3,17
+9052c,Annazette R. Collins,Annazette Collins,House,97,14,6,8,0,0,0,1,0,1,1,0,1
+194309k,Barbara Flynn Currie,Barbara Flynn Currie,House,97,192,92,100,17,3,14,5,3,2,18,4,14
+281238k,Carol A. Sente,Carol A. Sente,House,97,308,37,271,16,0,16,25,3,22,47,1,46
+3962c,Constance A. Howard,Constance A. Howard,House,97,95,33,62,18,6,12,3,1,2,15,4,11
+208356k,Cynthia Soto,Cynthia Soto,House,97,137,30,107,23,3,20,6,0,6,33,14,19
+13770c,Darlene J. Senger,Darlene J. Senger,House,97,156,34,122,10,0,10,23,8,15,34,4,30
+16085c,Dena M. Carli,Dena M. Carli,House,97,48,5,43,5,0,5,2,0,2,12,1,11
+212690k,Elaine Nekritz,Elaine Nekritz,House,97,154,68,86,14,2,12,19,10,9,16,4,12
+250823k,Elizabeth Hernandez,Elizabeth Hernandez,House,97,156,45,111,30,13,17,8,4,4,26,11,15
+12454c,Esther Golar,Esther Golar,House,97,180,62,118,27,9,18,6,1,5,30,10,20
+247264k,Jil W. Tracy,Jil Tracy,House,97,169,39,130,9,1,8,14,5,9,18,6,12
+11139c,JoAnn D. Osmond,JoAnn D. Osmond,House,97,127,49,78,20,5,15,7,1,6,15,1,14
+9051c,Karen A. Yarbrough,Karen A. Yarbrough,House,97,155,44,111,24,4,20,9,0,9,26,6,20
+13760c,Kay Hatcher,Kay Hatcher,House,97,175,37,138,11,1,10,20,5,15,27,3,24
+291417k,Kelly M. Burke,Kelly Burke,House,97,66,32,34,6,0,6,12,5,7,6,3,3
+343438k,Kelly M. Cassidy,Kelly M. Cassidy,House,97,129,36,93,12,3,9,4,0,4,18,2,16
+16087c,Kimberly du Buclet,Kimberly du Buclet,House,97,63,9,54,8,1,7,1,0,1,6,0,6
+342342k,Kimberly du Buclet,Kimberly du Buclet,House,97,63,9,54,8,1,7,1,0,1,6,0,6
+212697k,Linda Chapa LaVia,Linda Chapa LaVia,House,97,317,58,259,32,6,26,18,0,18,93,41,52
+11217c,Lisa M. Dugan,Lisa M. Dugan,House,97,212,48,164,20,5,15,12,5,7,27,3,24
+10125c,Maria Antonia Berrios,Maria Antonia Berrios,House,97,153,28,125,20,0,20,3,0,3,30,4,26
+386896k,Mary E. Flowers,Mary E. Flowers,House,97,164,62,102,45,21,24,8,2,6,26,13,13
+289863k,Michelle Mussman,Michelle Mussman,House,97,179,33,146,15,1,14,17,5,12,30,7,23
+194311k,Monique D. Davis,Monique D. Davis,House,97,195,50,145,23,1,22,14,3,11,54,21,33
+10137c,Naomi D. Jakobsson,Naomi D. Jakobsson,House,97,157,50,107,23,2,21,7,4,3,26,8,18
+314709k,Norine K. Hammond,Norine Hammond,House,97,122,20,102,14,1,13,8,2,6,12,2,10
+16064c,Pam Roth,Pam Roth,House,97,108,22,86,3,0,3,12,2,10,19,5,14
+194331k,Patricia R. Bellock,Patricia R. Bellock,House,97,267,55,212,60,27,33,14,1,13,42,4,38
+287099k,Robyn Gabel,Robyn Gabel,House,97,148,42,106,31,11,20,8,1,7,21,11,10
+2713c,Rosemary Mulligan,Rosemary Mulligan,House,97,58,22,36,11,1,10,2,0,2,12,2,10
+10126c,Sandra M. Pihos,Sandra M. Pihos,House,97,163,34,129,19,3,16,17,4,13,43,14,29
+12578c,Sandy Cole,Sandy Cole,House,97,118,14,104,13,0,13,11,1,10,15,3,12
+194298k,Sara Feigenholtz,Sara Feigenholtz,House,97,262,129,133,55,29,26,5,1,4,24,7,17
+2710c,Carole Pankau,Carole Pankau,Senate,97,77,48,29,9,8,1,7,3,4,7,3,4
+16080c,Christine J. Johnson,Christine J. Johnson,Senate,97,54,17,37,2,0,2,4,0,4,13,6,7
+194248k,Christine Radogno,Christine Radogno,Senate,97,325,306,19,11,11,0,29,28,1,29,27,2
+212706k,Jacqueline Y. Collins,Jacqueline Y. Collins,Senate,97,190,51,139,28,9,19,7,1,6,30,4,26
+193900k,Kimberly A. Lightford,Kimberly A. Lightford,Senate,97,125,47,78,14,5,9,9,3,6,34,16,18
+250812k,Linda Holmes,Linda Holmes,Senate,97,135,66,69,13,7,6,4,2,2,16,9,7
+5360c,M. Maggie Crotty,M. Maggie Crotty,Senate,97,101,48,53,11,4,7,3,1,2,13,4,9
+214463k,Mattie Hunter,Mattie Hunter,Senate,97,197,46,151,30,10,20,11,2,9,29,7,22
+214519k,Pamela J. Althoff,Pamela J. Althoff,Senate,97,207,98,109,13,4,9,13,6,7,16,7,9
+289878k,Sue Rezin,Sue Rezin,Senate,97,65,29,36,0,0,0,4,1,3,14,7,7
+6461c,Susan Garrett,Susan Garrett,Senate,97,111,85,26,8,4,4,3,2,1,13,7,6
+14813c,Suzi Schmidt,Suzi Schmidt,Senate,97,50,12,38,1,0,1,3,1,2,4,0,4
+291406k,Ann M. Williams,Ann Williams,House,98,171,49,122,24,3,21,8,2,6,18,3,15
+194309k,Barbara Flynn Currie,Barbara Flynn Currie,House,98,163,80,83,14,5,9,10,7,3,16,8,8
+387539k,Barbara Wheeler,Barbara Wheeler,House,98,141,20,121,10,1,9,7,0,7,24,1,23
+281238k,Carol A. Sente,Carol A. Sente,House,98,229,20,209,11,0,11,6,0,6,28,1,27
+208356k,Cynthia Soto,Cynthia Soto,House,98,202,29,173,36,5,31,9,3,6,39,11,28
+13770c,Darlene J. Senger,Darlene J. Senger,House,98,120,35,85,13,4,9,15,10,5,13,4,9
+291424k,Deborah O. Conroy,Deborah Conroy,House,98,190,20,170,9,0,9,6,2,4,26,7,19
+212690k,Elaine Nekritz,Elaine Nekritz,House,98,133,66,67,7,2,5,12,6,6,13,10,3
+250823k,Elizabeth Hernandez,Elizabeth Hernandez,House,98,226,54,172,36,10,26,16,4,12,45,9,36
+12454c,Esther Golar,Esther Golar,House,98,182,40,142,37,7,30,12,5,7,43,6,37
+387344k,Frances Ann Hurley,Frances Ann Hurley,House,98,165,21,144,9,1,8,7,2,5,27,2,25
+387453k,Jeanne M. Ives,Jeanne M Ives,House,98,122,41,81,4,0,4,22,13,9,11,3,8
+270625k,Jehan A. Gordon-Booth,Jehan A. Gordon-Booth,House,98,127,35,92,11,0,11,8,1,7,19,2,17
+247264k,Jil W. Tracy,Jil Tracy,House,98,114,34,80,9,1,8,7,3,4,12,5,7
+11139c,JoAnn D. Osmond,JoAnn D. Osmond,House,98,141,34,107,24,5,19,6,1,5,14,4,10
+387579k,Katherine Cloonen,Katherine Cloonen,House,98,122,18,104,2,1,1,2,0,2,13,3,10
+387571k,Kathleen Willis,Kathleen Willis,House,98,239,23,216,18,2,16,9,1,8,41,6,35
+13760c,Kay Hatcher,Kay Hatcher,House,98,123,15,108,5,1,4,11,0,11,14,2,12
+291417k,Kelly M. Burke,Kelly Burke,House,98,131,60,71,10,0,10,8,1,7,13,2,11
+343438k,Kelly M. Cassidy,Kelly M. Cassidy,House,98,207,55,152,32,5,27,15,2,13,26,5,21
+387347k,Laura Fine,Laura Fine,House,98,139,25,114,20,3,17,6,2,4,19,5,14
+212697k,Linda Chapa LaVia,Linda Chapa LaVia,House,98,384,91,293,36,4,32,11,0,11,126,63,63
+507765k,Litesa E. Wallace,Litesa E. Wallace,House,98,3,0,3,0,0,0,1,0,1,1,0,1
+10125c,Maria Antonia Berrios,Maria Antonia Berrios,House,98,156,21,135,24,0,24,7,0,7,24,0,24
+386896k,Mary E. Flowers,Mary E. Flowers,House,98,214,65,149,48,21,27,16,3,13,41,11,30
+289863k,Michelle Mussman,Michelle Mussman,House,98,106,15,91,6,1,5,2,1,1,17,3,14
+194311k,Monique D. Davis,Monique D. Davis,House,98,227,48,179,26,1,25,13,1,12,65,12,53
+10137c,Naomi D. Jakobsson,Naomi D. Jakobsson,House,98,167,37,130,27,6,21,7,1,6,27,10,17
+387729k,Natalie A. Manley,Natalie A. Manley,House,98,129,22,107,9,0,9,3,0,3,14,3,11
+314709k,Norine K. Hammond,Norine Hammond,House,98,138,33,105,15,0,15,6,0,6,20,8,12
+16064c,Pam Roth,Pam Roth,House,98,61,14,47,7,0,7,6,3,3,10,3,7
+194331k,Patricia R. Bellock,Patricia R. Bellock,House,98,218,35,183,40,13,27,11,0,11,18,4,14
+287099k,Robyn Gabel,Robyn Gabel,House,98,192,58,134,43,15,28,15,5,10,20,4,16
+10126c,Sandra M. Pihos,Sandra M. Pihos,House,98,176,31,145,15,5,10,12,2,10,26,10,16
+194298k,Sara Feigenholtz,Sara Feigenholtz,House,98,164,78,86,32,24,8,6,0,6,21,12,9
+477789k,Sheri L. Jesiel,Sheri L Jesiel,House,98,4,0,4,1,0,1,0,0,0,0,0,0
+386852k,Silvana Tabares,Silvana Tabares,House,98,106,17,89,10,4,6,3,0,3,18,2,16
+387605k,Stephanie A. Kifowit,Stephanie A. Kifowit,House,98,181,17,164,12,0,12,6,0,6,25,1,24
+387726k,Sue Scherer,Sue Scherer,House,98,124,17,107,9,0,9,6,1,5,15,3,12
+194248k,Christine Radogno,Christine Radogno,Senate,98,214,190,24,10,8,2,25,23,2,12,12,0
+212706k,Jacqueline Y. Collins,Jacqueline Y. Collins,Senate,98,241,50,191,32,5,27,15,1,14,40,8,32
+387557k,Jennifer Bertino-Tarrant,Jennifer Bertino-Tarrant,Senate,98,83,35,48,5,0,5,5,1,4,21,12,9
+193900k,Kimberly A. Lightford,Kimberly A. Lightford,Senate,98,136,44,92,14,1,13,8,3,5,44,28,16
+250812k,Linda Holmes,Linda Holmes,Senate,98,130,46,84,11,2,9,8,4,4,6,3,3
+214463k,Mattie Hunter,Mattie Hunter,Senate,98,199,81,118,48,21,27,11,1,10,31,12,19
+387460k,Melinda Bush,Melinda Bush,Senate,98,153,34,119,19,2,17,9,1,8,24,11,13
+214519k,Pamela J. Althoff,Pamela J. Althoff,Senate,98,263,117,146,18,7,11,20,9,11,18,2,16
+387354k,Patricia Van Pelt,Patricia Van Pelt,Senate,98,99,10,89,11,2,9,15,2,13,11,0,11
+289878k,Sue Rezin,Sue Rezin,Senate,98,77,15,62,3,0,3,7,2,5,19,2,17
+527585k,Avery Bourne,Avery Bourne,House,99,99,20,79,3,0,3,3,0,3,12,2,10
+194309k,Barbara Flynn Currie,Barbara Flynn Currie,House,99,203,112,91,17,3,14,19,9,10,25,9,16
+387539k,Barbara Wheeler,Barbara Wheeler,House,99,127,35,92,8,1,7,13,2,11,27,9,18
+477852k,Carol Ammons,Carol Ammons,House,99,324,30,294,44,4,40,16,1,15,50,5,45
+477764k,Christine J. Winger,Christine Winger,House,99,97,29,68,4,1,3,4,1,3,11,4,7
+208356k,Cynthia Soto,Cynthia Soto,House,99,212,19,193,36,3,33,14,3,11,48,9,39
+212690k,Elaine Nekritz,Elaine Nekritz,House,99,174,81,93,19,7,12,25,17,8,15,4,11
+250823k,Elizabeth Hernandez,Elizabeth Hernandez,House,99,195,32,163,29,3,26,15,3,12,40,8,32
+12454c,Esther Golar,Esther Golar,House,99,93,23,70,14,5,9,5,1,4,24,10,14
+387344k,Frances Ann Hurley,Frances Ann Hurley,House,99,133,14,119,15,1,14,9,2,7,14,0,14
+387453k,Jeanne M. Ives,Jeanne M Ives,House,99,120,40,80,3,1,2,25,13,12,19,5,14
+387579k,Katherine Cloonen,Katherine Cloonen,House,99,177,23,154,8,0,8,5,0,5,24,2,22
+387571k,Kathleen Willis,Kathleen Willis,House,99,207,26,181,22,1,21,13,1,12,35,3,32
+343438k,Kelly M. Cassidy,Kelly M. Cassidy,House,99,223,62,161,44,6,38,16,2,14,27,3,24
+387347k,Laura Fine,Laura Fine,House,99,204,33,171,34,1,33,13,2,11,31,3,28
+212697k,Linda Chapa LaVia,Linda Chapa LaVia,House,99,313,55,258,30,2,28,18,1,17,73,20,53
+507765k,Litesa E. Wallace,Litesa E. Wallace,House,99,232,29,203,32,3,29,20,2,18,46,9,37
+386896k,Mary E. Flowers,Mary E. Flowers,House,99,258,53,205,35,7,28,19,2,17,53,19,34
+561273k,Melissa Conyears,Melissa Conyears,House,99,2,0,2,0,0,0,0,0,0,0,0,0
+289863k,Michelle Mussman,Michelle Mussman,House,99,161,21,140,18,1,17,8,0,8,31,6,25
+194311k,Monique D. Davis,Monique D. Davis,House,99,136,31,105,17,3,14,10,2,8,33,8,25
+387729k,Natalie A. Manley,Natalie A. Manley,House,99,180,26,154,16,0,16,7,0,7,20,3,17
+477604k,Pamela Reaves-Harris,Pamela Reaves-Harris,House,99,124,13,111,16,2,14,7,0,7,19,1,18
+194331k,Patricia R. Bellock,Patricia R. Bellock,House,99,228,43,185,42,9,33,7,0,7,37,10,27
+287099k,Robyn Gabel,Robyn Gabel,House,99,198,47,151,52,10,42,16,3,13,30,8,22
+194298k,Sara Feigenholtz,Sara Feigenholtz,House,99,166,59,107,40,17,23,6,1,5,21,4,17
+560976k,Sara Wojcicki Jimenez,Sara Wojcicki Jimenez,House,99,40,6,34,0,0,0,1,0,1,3,0,3
+386852k,Silvana Tabares,Silvana Tabares,House,99,196,18,178,20,0,20,10,0,10,35,4,31
+559508k,Sonya M. Harper,Sonya M. Harper,House,99,116,9,107,14,3,11,5,0,5,18,0,18
+387605k,Stephanie A. Kifowit,Stephanie A. Kifowit,House,99,205,29,176,19,1,18,15,0,15,30,4,26
+387726k,Sue Scherer,Sue Scherer,House,99,169,16,153,12,0,12,7,0,7,34,3,31
+477858k,Terri Bryant,Terri Bryant,House,99,119,32,87,11,1,10,4,2,2,11,1,10
+194248k,Christine Radogno,Christine Radogno,Senate,99,591,574,17,20,19,1,64,63,1,32,30,2
+212706k,Jacqueline Y. Collins,Jacqueline Y. Collins,Senate,99,298,39,259,35,2,33,22,3,19,55,6,49
+387557k,Jennifer Bertino-Tarrant,Jennifer Bertino-Tarrant,Senate,99,81,29,52,8,1,7,3,2,1,21,9,12
+193900k,Kimberly A. Lightford,Kimberly A. Lightford,Senate,99,216,62,154,22,3,19,17,5,12,64,29,35
+555460k,Laura M. Murphy,Laura M. Murphy,Senate,99,92,9,83,8,0,8,6,0,6,6,0,6
+250812k,Linda Holmes,Linda Holmes,Senate,99,140,45,95,14,3,11,8,2,6,10,3,7
+214463k,Mattie Hunter,Mattie Hunter,Senate,99,237,43,194,39,8,31,25,7,18,43,9,34
+387460k,Melinda Bush,Melinda Bush,Senate,99,210,82,128,17,5,12,10,0,10,21,10,11
+214519k,Pamela J. Althoff,Pamela J. Althoff,Senate,99,304,132,172,23,5,18,24,13,11,27,13,14
+387354k,Patricia Van Pelt,Patricia Van Pelt,Senate,99,172,19,153,21,1,20,7,0,7,23,3,20
+289878k,Sue Rezin,Sue Rezin,Senate,99,107,43,64,4,1,3,3,1,2,15,5,10
+527585k,Avery Bourne,Avery Bourne,House,100,148,44,104,9,3,6,7,0,7,18,4,14
+194309k,Barbara Flynn Currie,Barbara Flynn Currie,House,100,180,64,116,13,2,11,14,3,11,16,4,12
+387539k,Barbara Wheeler,Barbara Wheeler,House,100,165,49,116,7,1,6,7,3,4,20,7,13
+477852k,Carol Ammons,Carol Ammons,House,100,314,45,269,24,2,22,32,8,24,58,6,52
+477764k,Christine J. Winger,Christine Winger,House,100,116,30,86,9,1,8,3,0,3,11,2,9
+208356k,Cynthia Soto,Cynthia Soto,House,100,203,34,169,33,11,22,16,0,16,40,6,34
+212690k,Elaine Nekritz,Elaine Nekritz,House,100,90,32,58,9,5,4,9,7,2,9,1,8
+250823k,Elizabeth Hernandez,Elizabeth Hernandez,House,100,261,40,221,30,6,24,26,5,21,54,13,41
+387344k,Frances Ann Hurley,Frances Ann Hurley,House,100,205,18,187,21,3,18,15,2,13,22,2,20
+387453k,Jeanne M. Ives,Jeanne M Ives,House,100,124,63,61,4,1,3,18,10,8,23,13,10
+561259k,Juliana Stratton,Juliana Stratton,House,100,234,33,201,28,1,27,17,2,15,52,7,45
+387571k,Kathleen Willis,Kathleen Willis,House,100,304,54,250,31,2,29,26,6,20,55,6,49
+561037k,Katie Stuart,Katie Stuart,House,100,307,39,268,22,2,20,26,1,25,46,4,42
+343438k,Kelly M. Cassidy,Kelly M. Cassidy,House,100,306,95,211,29,8,21,19,2,17,41,7,34
+561038k,LaToya N. Greenwood,LaToya Greenwood,House,100,255,17,238,18,1,17,20,0,20,59,8,51
+387347k,Laura Fine,Laura Fine,House,100,281,37,244,46,5,41,18,2,16,42,4,38
+212697k,Linda Chapa LaVia,Linda Chapa LaVia,House,100,360,54,306,19,0,19,37,1,36,93,18,75
+561021k,Lindsay A. Parkhurst,Lindsay Parkhurst,House,100,103,24,79,2,0,2,10,2,8,8,3,5
+507765k,Litesa E. Wallace,Litesa E. Wallace,House,100,303,59,244,30,5,25,25,4,21,62,17,45
+386896k,Mary E. Flowers,Mary E. Flowers,House,100,284,56,228,37,7,30,20,6,14,66,11,55
+289863k,Michelle Mussman,Michelle Mussman,House,100,230,35,195,27,5,22,21,2,19,20,3,17
+645589k,Monica Bristow,Monica Bristow,House,100,106,25,81,12,1,11,5,2,3,12,1,11
+387729k,Natalie A. Manley,Natalie A. Manley,House,100,277,39,238,32,6,26,18,0,18,41,7,34
+636323k,Natalie Phelps Finnie,Natalie Phelps Finnie,House,100,125,32,93,7,1,6,6,1,5,10,2,8
+194331k,Patricia R. Bellock,Patricia R. Bellock,House,100,260,48,212,49,17,32,8,0,8,23,6,17
+287099k,Robyn Gabel,Robyn Gabel,House,100,280,61,219,52,19,33,16,5,11,41,10,31
+194298k,Sara Feigenholtz,Sara Feigenholtz,House,100,250,77,173,59,27,32,11,1,10,34,5,29
+560976k,Sara Wojcicki Jimenez,Sara Wojcicki Jimenez,House,100,106,33,73,6,2,4,5,1,4,8,2,6
+386852k,Silvana Tabares,Silvana Tabares,House,100,266,12,254,21,2,19,28,1,27,40,2,38
+559508k,Sonya M. Harper,Sonya M. Harper,House,100,298,59,239,20,3,17,23,5,18,63,17,46
+387605k,Stephanie A. Kifowit,Stephanie A. Kifowit,House,100,283,43,240,29,3,26,28,0,28,29,4,25
+387726k,Sue Scherer,Sue Scherer,House,100,185,33,152,13,3,10,12,1,11,34,7,27
+477858k,Terri Bryant,Terri Bryant,House,100,161,29,132,11,4,7,8,1,7,15,0,15
+560990k,Theresa Mah,Theresa Mah,House,100,251,27,224,18,1,17,26,1,25,49,0,49
+194248k,Christine Radogno,Christine Radogno,Senate,100,8,0,8,0,0,0,1,0,1,2,0,2
+560946k,Cristina Castro,Cristina Castro,Senate,100,320,47,273,36,4,32,21,6,15,50,8,42
+212706k,Jacqueline Y. Collins,Jacqueline Y. Collins,Senate,100,261,39,222,19,2,17,18,2,16,38,10,28
+387557k,Jennifer Bertino-Tarrant,Jennifer Bertino-Tarrant,Senate,100,139,32,107,10,2,8,12,2,10,31,16,15
+247264k,Jil W. Tracy,Jil Tracy,Senate,100,132,74,58,4,1,3,9,5,4,13,5,8
+193900k,Kimberly A. Lightford,Kimberly A. Lightford,Senate,100,269,66,203,32,4,28,27,5,22,87,43,44
+555460k,Laura M. Murphy,Laura M. Murphy,Senate,100,304,64,240,38,5,33,22,2,20,29,5,24
+250812k,Linda Holmes,Linda Holmes,Senate,100,212,64,148,16,2,14,16,6,10,27,7,20
+214463k,Mattie Hunter,Mattie Hunter,Senate,100,287,50,237,28,5,23,24,3,21,49,17,32
+387460k,Melinda Bush,Melinda Bush,Senate,100,257,87,170,23,6,17,17,3,14,35,8,27
+214519k,Pamela J. Althoff,Pamela J. Althoff,Senate,100,216,65,151,16,7,9,14,3,11,14,0,14
+387354k,Patricia Van Pelt,Patricia Van Pelt,Senate,100,287,19,268,33,2,31,22,4,18,47,3,44
+289878k,Sue Rezin,Sue Rezin,Senate,100,107,35,72,4,1,3,1,0,1,21,7,14
+646557k,Amy L. Grant,Amy Grant,House,101,163,22,141,10,1,9,8,0,8,20,3,17
+646616k,Anne M. Stava-Murray,Anne Stava-Murray,House,101,285,80,205,35,4,31,22,7,15,40,8,32
+527585k,Avery Bourne,Avery Bourne,House,101,107,24,83,4,1,3,7,1,6,22,3,19
+699437k,Barbara Hernandez,Barbara Hernandez,House,101,186,18,168,15,0,15,11,2,9,36,4,32
+477852k,Carol Ammons,Carol Ammons,House,101,259,46,213,23,0,23,22,2,20,42,9,33
+675767k,Celina Villanueva,Celina Villanueva,House,101,154,15,139,17,1,16,19,1,18,29,3,26
+645441k,Delia C. Ramirez,Delia C. Ramirez,House,101,186,41,145,30,3,27,16,3,13,35,8,27
+680814k,Diane Pappas,Diane Pappas,House,101,178,31,147,16,1,15,10,1,9,20,2,18
+250823k,Elizabeth Hernandez,Elizabeth Hernandez,House,101,287,18,269,49,1,48,29,1,28,51,4,47
+723683k,Eva Dina Delgado,Eva Dina Delgado,House,101,18,7,11,0,0,0,0,0,0,1,0,1
+387344k,Frances Ann Hurley,Frances Ann Hurley,House,101,143,29,114,21,2,19,14,4,10,13,1,12
+724500k,Jackie Haas,Jackie Haas,House,101,2,0,2,1,0,1,0,0,0,0,0,0
+645455k,Jennifer Gong-Gershowitz,Jennifer Gong-Gershowitz,House,101,178,31,147,25,1,24,15,3,12,20,1,19
+645527k,Karina Villa,Karina Villa,House,101,228,24,204,38,6,32,18,0,18,45,6,39
+387571k,Kathleen Willis,Kathleen Willis,House,101,201,56,145,34,8,26,16,5,11,34,6,28
+561037k,Katie Stuart,Katie Stuart,House,101,203,51,152,26,5,21,13,0,13,59,19,40
+343438k,Kelly M. Cassidy,Kelly M. Cassidy,House,101,366,51,315,48,5,43,27,2,25,44,5,39
+561038k,LaToya N. Greenwood,LaToya Greenwood,House,101,244,28,216,48,6,42,18,0,18,54,5,49
+724218k,Lakesia Collins,Lakesia Collins,House,101,18,3,15,0,0,0,2,0,2,5,2,3
+212697k,Linda Chapa LaVia,Linda Chapa LaVia,House,101,71,11,60,9,0,9,3,0,3,13,0,13
+561021k,Lindsay A. Parkhurst,Lindsay Parkhurst,House,101,111,21,90,1,0,1,6,0,6,12,3,9
+713780k,Lindsey LaPointe,Lindsey LaPointe,House,101,90,17,73,15,5,10,6,2,4,17,4,13
+386896k,Mary E. Flowers,Mary E. Flowers,House,101,249,103,146,45,30,15,15,5,10,47,24,23
+671347k,Mary Edly-Allen,Mary Edly-Allen,House,101,251,41,210,30,5,25,18,2,16,40,7,33
+289863k,Michelle Mussman,Michelle Mussman,House,101,220,38,182,40,2,38,17,5,12,39,13,26
+645589k,Monica Bristow,Monica Bristow,House,101,171,51,120,18,4,14,10,2,8,22,6,16
+387729k,Natalie A. Manley,Natalie A. Manley,House,101,198,37,161,28,5,23,15,3,12,32,4,28
+287099k,Robyn Gabel,Robyn Gabel,House,101,296,67,229,65,22,43,20,4,16,38,8,30
+194298k,Sara Feigenholtz,Sara Feigenholtz,House,101,146,28,118,32,13,19,15,1,14,18,2,16
+559508k,Sonya M. Harper,Sonya M. Harper,House,101,208,67,141,32,8,24,15,3,12,44,12,32
+387605k,Stephanie A. Kifowit,Stephanie A. Kifowit,House,101,147,41,106,15,3,12,15,2,13,26,9,17
+387726k,Sue Scherer,Sue Scherer,House,101,93,29,64,12,3,9,8,2,6,30,12,18
+645525k,Terra Costa Howard,Terra Costa Howard,House,101,271,30,241,36,2,34,21,2,19,40,5,35
+477858k,Terri Bryant,Terri Bryant,House,101,144,19,125,9,3,6,10,1,9,23,3,20
+560990k,Theresa Mah,Theresa Mah,House,101,216,25,191,28,3,25,18,1,17,31,2,29
+753914k,Adriane Johnson,Adriane Johnson,Senate,101,27,0,27,4,0,4,1,0,1,9,0,9
+646485k,Ann Gillespie,Ann Gillespie,Senate,101,152,33,119,26,2,24,21,2,19,33,12,21
+675767k,Celina Villanueva,Celina Villanueva,Senate,101,60,22,38,7,2,5,5,1,4,13,4,9
+560946k,Cristina Castro,Cristina Castro,Senate,101,279,98,181,37,5,32,38,20,18,46,13,33
+212706k,Jacqueline Y. Collins,Jacqueline Y. Collins,Senate,101,282,39,243,22,7,15,22,1,21,60,9,51
+387557k,Jennifer Bertino-Tarrant,Jennifer Bertino-Tarrant,Senate,101,136,16,120,16,1,15,10,1,9,31,9,22
+247264k,Jil W. Tracy,Jil Tracy,Senate,101,103,68,35,10,8,2,6,2,4,9,4,5
+193900k,Kimberly A. Lightford,Kimberly A. Lightford,Senate,101,209,54,155,35,11,24,18,2,16,60,22,38
+646482k,Laura Ellman,Laura Ellman,Senate,101,137,47,90,12,2,10,9,1,8,23,10,13
+387347k,Laura Fine,Laura Fine,Senate,101,250,78,172,43,17,26,24,9,15,30,6,24
+555460k,Laura M. Murphy,Laura M. Murphy,Senate,101,348,72,276,43,6,37,27,2,25,64,13,51
+250812k,Linda Holmes,Linda Holmes,Senate,101,169,54,115,19,1,18,16,2,14,23,5,18
+214463k,Mattie Hunter,Mattie Hunter,Senate,101,252,41,211,39,8,31,26,5,21,44,8,36
+387460k,Melinda Bush,Melinda Bush,Senate,101,227,123,104,22,7,15,18,7,11,22,10,12
+387354k,Patricia Van Pelt,Patricia Van Pelt,Senate,101,119,17,102,17,3,14,15,1,14,27,1,26
+646501k,Rachelle Aud Crowe,Rachelle Crowe,Senate,101,201,71,130,23,5,18,9,1,8,33,6,27
+194298k,Sara Feigenholtz,Sara Feigenholtz,Senate,101,98,43,55,24,11,13,5,2,3,19,5,14
+289878k,Sue Rezin,Sue Rezin,Senate,101,104,41,63,6,3,3,5,0,5,17,7,10
+724177k,Amy Elik,Amy Elik,House,102,169,32,137,23,3,20,5,1,4,20,4,16
+646557k,Amy L. Grant,Amy Grant,House,102,217,12,205,32,0,32,7,0,7,23,1,22
+770579k,Angelica Guerrero-Cuellar,Angelica Guerrero-Cuellar,House,102,188,21,167,32,1,31,13,4,9,43,2,41
+646616k,Anne M. Stava-Murray,Anne Stava-Murray,House,102,285,43,242,39,2,37,11,1,10,47,6,41
+527585k,Avery Bourne,Avery Bourne,House,102,103,16,87,5,0,5,1,0,1,15,4,11
+699437k,Barbara Hernandez,Barbara Hernandez,House,102,357,46,311,58,6,52,21,2,19,68,12,56
+477852k,Carol Ammons,Carol Ammons,House,102,342,48,294,33,2,31,18,3,15,76,12,64
+724507k,Dagmara Avelar,Dagmara Avelar,House,102,298,30,268,56,7,49,11,0,11,54,1,53
+645441k,Delia C. Ramirez,Delia C. Ramirez,House,102,237,39,198,31,3,28,12,1,11,36,5,31
+724191k,Denyse Wang Stoneback,Denyse Wang Stoneback,House,102,170,48,122,29,10,19,4,0,4,26,6,20
+804306k,Diane Blair-Sherlock,Diane Blair-Sherlock,House,102,2,0,2,0,0,0,0,0,0,0,0,0
+250823k,Elizabeth Hernandez,Elizabeth Hernandez,House,102,329,35,294,50,6,44,19,2,17,70,4,66
+387344k,Frances Ann Hurley,Frances Ann Hurley,House,102,183,34,149,16,2,14,9,2,7,27,1,26
+724500k,Jackie Haas,Jackie Haas,House,102,92,19,73,14,4,10,3,0,3,12,4,8
+724382k,Janet Yang Rohr,Janet Yang Rohr,House,102,231,30,201,28,3,25,13,4,9,46,7,39
+645455k,Jennifer Gong-Gershowitz,Jennifer Gong-Gershowitz,House,102,178,29,149,27,4,23,13,2,11,19,1,18
+387571k,Kathleen Willis,Kathleen Willis,House,102,250,51,199,45,5,40,17,3,14,54,4,50
+561037k,Katie Stuart,Katie Stuart,House,102,321,80,241,47,4,43,16,2,14,82,20,62
+343438k,Kelly M. Cassidy,Kelly M. Cassidy,House,102,389,61,328,58,4,54,17,0,17,59,5,54
+561038k,LaToya N. Greenwood,LaToya Greenwood,House,102,293,61,232,54,13,41,11,6,5,54,8,46
+724218k,Lakesia Collins,Lakesia Collins,House,102,215,33,182,34,7,27,17,1,16,50,10,40
+804095k,Lilian Jimenez,Lilian Jimenez,House,102,2,0,2,0,0,0,0,0,0,0,0,0
+713780k,Lindsey LaPointe,Lindsey LaPointe,House,102,303,65,238,68,15,53,21,9,12,60,13,47
+724186k,Margaret Croke,Margaret Croke,House,102,275,37,238,38,5,33,13,2,11,33,1,32
+386896k,Mary E. Flowers,Mary E. Flowers,House,102,199,98,101,54,31,23,9,5,4,39,20,19
+724387k,Maura Hirschauer,Maura Hirschauer,House,102,244,41,203,35,7,28,12,3,9,52,9,43
+289863k,Michelle Mussman,Michelle Mussman,House,102,234,33,201,31,5,26,11,2,9,51,15,36
+387729k,Natalie A. Manley,Natalie A. Manley,House,102,217,44,173,30,3,27,10,0,10,34,7,27
+287099k,Robyn Gabel,Robyn Gabel,House,102,264,54,210,62,22,40,9,3,6,29,1,28
+794486k,Sandra Hamilton,Sandra Hamilton,House,102,35,6,29,2,0,2,3,0,3,8,1,7
+559508k,Sonya M. Harper,Sonya M. Harper,House,102,193,82,111,24,9,15,4,1,3,39,18,21
+387605k,Stephanie A. Kifowit,Stephanie A. Kifowit,House,102,275,56,219,32,5,27,14,4,10,54,9,45
+387726k,Sue Scherer,Sue Scherer,House,102,185,26,159,26,2,24,8,0,8,52,10,42
+724473k,Suzanne M. Ness,Suzanne Ness,House,102,197,29,168,28,4,24,11,2,9,30,5,25
+645525k,Terra Costa Howard,Terra Costa Howard,House,102,252,44,208,34,5,29,15,3,12,45,10,35
+560990k,Theresa Mah,Theresa Mah,House,102,209,40,169,33,7,26,8,0,8,39,2,37
+753914k,Adriane Johnson,Adriane Johnson,Senate,102,289,52,237,59,9,50,10,4,6,55,9,46
+646485k,Ann Gillespie,Ann Gillespie,Senate,102,192,57,135,44,9,35,9,5,4,41,15,26
+675767k,Celina Villanueva,Celina Villanueva,Senate,102,244,75,169,49,9,40,13,6,7,60,14,46
+560946k,Cristina Castro,Cristina Castro,Senate,102,312,112,200,41,8,33,23,17,6,49,7,42
+709769k,Cristina H. Pacione-Zayas,Cristina H. Pacione-Zayas,Senate,102,209,52,157,35,6,29,8,0,8,69,30,39
+680814k,Diane Pappas,Diane Pappas,Senate,102,30,1,29,3,0,3,0,0,0,3,0,3
+766559k,Doris Turner,Doris Turner,Senate,102,212,47,165,40,6,34,7,3,4,37,9,28
+212706k,Jacqueline Y. Collins,Jacqueline Y. Collins,Senate,102,301,39,262,53,3,50,11,0,11,54,6,48
+247264k,Jil W. Tracy,Jil Tracy,Senate,102,170,49,121,12,0,12,5,3,2,27,7,20
+645527k,Karina Villa,Karina Villa,Senate,102,276,61,215,63,16,47,18,8,10,73,15,58
+193900k,Kimberly A. Lightford,Kimberly A. Lightford,Senate,102,200,66,134,25,6,19,7,2,5,56,19,37
+646482k,Laura Ellman,Laura Ellman,Senate,102,122,32,90,20,2,18,5,1,4,25,6,19
+387347k,Laura Fine,Laura Fine,Senate,102,308,110,198,76,35,41,13,6,7,51,6,45
+555460k,Laura M. Murphy,Laura M. Murphy,Senate,102,441,126,315,61,11,50,19,3,16,82,18,64
+250812k,Linda Holmes,Linda Holmes,Senate,102,168,71,97,16,1,15,14,10,4,21,5,16
+214463k,Mattie Hunter,Mattie Hunter,Senate,102,343,87,256,66,19,47,22,9,13,75,15,60
+724349k,Meg Loughran Cappel,Meg Loughran Cappel,Senate,102,177,35,142,26,4,22,6,1,5,54,17,37
+387460k,Melinda Bush,Melinda Bush,Senate,102,148,23,125,32,4,28,6,1,5,26,2,24
+387354k,Patricia Van Pelt,Patricia Van Pelt,Senate,102,156,20,136,33,6,27,8,2,6,23,1,22
+646501k,Rachelle Aud Crowe,Rachelle Crowe,Senate,102,241,21,220,25,0,25,10,2,8,40,2,38
+765743k,Sally J. Turner,Sally J. Turner,Senate,102,153,28,125,13,3,10,4,0,4,35,3,32
+194298k,Sara Feigenholtz,Sara Feigenholtz,Senate,102,317,97,220,77,25,52,13,4,9,57,11,46
+289878k,Sue Rezin,Sue Rezin,Senate,102,150,55,95,13,3,10,1,1,0,25,9,16
+477858k,Terri Bryant,Terri Bryant,Senate,102,193,39,154,15,1,14,9,4,5,36,9,27
+724177k,Amy Elik,Amy Elik,House,103,168,52,116,10,3,7,9,4,5,46,15,31
+770579k,Angelica Guerrero-Cuellar,Angelica Guerrero-Cuellar,House,103,134,23,111,13,1,12,12,1,11,22,3,19
+646616k,Anne M. Stava-Murray,Anne Stava-Murray,House,103,278,37,241,39,8,31,15,1,14,52,4,48
+477852k,Carol Ammons,Carol Ammons,House,103,242,31,211,23,1,22,21,0,21,54,13,41
+724507k,Dagmara Avelar,Dagmara Avelar,House,103,374,62,312,69,23,46,25,2,23,57,7,50
+804306k,Diane Blair-Sherlock,Diane Blair-Sherlock,House,103,243,19,224,27,3,24,13,0,13,53,4,49
+387344k,Frances Ann Hurley,Frances Ann Hurley,House,103,4,4,0,1,1,0,0,0,0,0,0,0
+724500k,Jackie Haas,Jackie Haas,House,103,147,34,113,17,5,12,5,2,3,26,3,23
+724382k,Janet Yang Rohr,Janet Yang Rohr,House,103,274,57,217,36,7,29,20,4,16,77,23,54
+804304k,Jenn Ladisch Douglass,Jenn Ladisch Douglass,House,103,214,37,177,23,6,17,11,1,10,32,1,31
+645455k,Jennifer Gong-Gershowitz,Jennifer Gong-Gershowitz,House,103,156,47,109,7,2,5,5,0,5,24,3,21
+804308k,Jennifer Sanalitro,Jennifer Sanalitro,House,103,130,17,113,9,2,7,3,1,2,30,3,27
+561037k,Katie Stuart,Katie Stuart,House,103,272,72,200,28,4,24,22,5,17,76,35,41
+343438k,Kelly M. Cassidy,Kelly M. Cassidy,House,103,373,64,309,59,5,54,18,0,18,51,6,45
+724218k,Lakesia Collins,Lakesia Collins,House,103,126,31,95,20,8,12,12,3,9,27,8,19
+804453k,Laura Faver Dias,Laura Faver Dias,House,103,299,44,255,34,0,34,22,2,20,68,13,55
+713780k,Lindsey LaPointe,Lindsey LaPointe,House,103,258,63,195,62,30,32,13,0,13,30,3,27
+724186k,Margaret Croke,Margaret Croke,House,103,204,59,145,17,2,15,6,1,5,30,9,21
+804395k,Mary Beth Canty,Mary Beth Canty,House,103,219,33,186,22,1,21,15,1,14,39,12,27
+386896k,Mary E. Flowers,Mary E. Flowers,House,103,171,91,80,37,28,9,11,3,8,35,23,12
+839184k,Mary Gill,Mary Gill,House,103,107,19,88,3,3,0,5,1,4,22,2,20
+724387k,Maura Hirschauer,Maura Hirschauer,House,103,262,44,218,40,10,30,9,2,7,53,8,45
+289863k,Michelle Mussman,Michelle Mussman,House,103,258,50,208,30,8,22,14,4,10,66,27,39
+804387k,Nabeela Syed,Nabeela Syed,House,103,230,51,179,24,5,19,12,1,11,34,8,26
+387729k,Natalie A. Manley,Natalie A. Manley,House,103,154,39,115,18,6,12,11,2,9,20,2,18
+859564k,Nicole La Ha,Nicole La Ha,House,103,95,3,92,6,0,6,4,0,4,16,0,16
+880072k,Nicolle Grasse,Nicolle Grasse,House,103,2,0,2,0,0,0,1,0,1,0,0,0
+804492k,Norma Hernandez,Norma Hernandez,House,103,242,19,223,24,2,22,14,0,14,34,3,31
+287099k,Robyn Gabel,Robyn Gabel,House,103,87,33,54,16,14,2,4,0,4,14,2,12
+804553k,Sharon Chung,Sharon Chung,House,103,244,30,214,27,4,23,19,2,17,49,6,43
+559508k,Sonya M. Harper,Sonya M. Harper,House,103,203,59,144,16,6,10,13,1,12,24,4,20
+387605k,Stephanie A. Kifowit,Stephanie A. Kifowit,House,103,278,71,207,17,5,12,52,24,28,37,5,32
+387726k,Sue Scherer,Sue Scherer,House,103,149,13,136,7,0,7,18,0,18,36,5,31
+645525k,Terra Costa Howard,Terra Costa Howard,House,103,209,54,155,32,11,21,11,2,9,36,10,26
+560990k,Theresa Mah,Theresa Mah,House,103,220,35,185,29,6,23,11,0,11,34,2,32
+859524k,Tracy Katz Muhl,Tracy Katz Muhl,House,103,71,14,57,7,2,5,3,0,3,17,3,14
+753914k,Adriane Johnson,Adriane Johnson,Senate,103,483,100,383,57,9,48,25,4,21,105,29,76
+646485k,Ann Gillespie,Ann Gillespie,Senate,103,111,9,102,10,1,9,2,0,2,20,0,20
+675767k,Celina Villanueva,Celina Villanueva,Senate,103,256,95,161,33,11,22,21,9,12,38,14,24
+560946k,Cristina Castro,Cristina Castro,Senate,103,332,123,209,26,5,21,28,15,13,50,13,37
+709769k,Cristina H. Pacione-Zayas,Cristina H. Pacione-Zayas,Senate,103,91,1,90,16,0,16,10,0,10,26,0,26
+766559k,Doris Turner,Doris Turner,Senate,103,275,90,185,42,12,30,14,8,6,49,14,35
+247264k,Jil W. Tracy,Jil Tracy,Senate,103,184,97,87,12,6,6,12,4,8,31,14,17
+645527k,Karina Villa,Karina Villa,Senate,103,323,92,231,66,29,37,31,13,18,43,8,35
+193900k,Kimberly A. Lightford,Kimberly A. Lightford,Senate,103,183,69,114,24,8,16,5,0,5,51,32,19
+724218k,Lakesia Collins,Lakesia Collins,Senate,103,128,35,93,16,7,9,5,1,4,23,10,13
+646482k,Laura Ellman,Laura Ellman,Senate,103,204,95,109,15,5,10,5,0,5,28,12,16
+387347k,Laura Fine,Laura Fine,Senate,103,339,132,207,62,31,31,11,7,4,42,18,24
+555460k,Laura M. Murphy,Laura M. Murphy,Senate,103,457,107,350,59,13,46,15,4,11,82,12,70
+250812k,Linda Holmes,Linda Holmes,Senate,103,158,66,92,15,5,10,12,7,5,13,5,8
+671347k,Mary Edly-Allen,Mary Edly-Allen,Senate,103,506,57,449,51,1,50,17,0,17,107,9,98
+214463k,Mattie Hunter,Mattie Hunter,Senate,103,254,47,207,43,15,28,13,3,10,41,6,35
+724349k,Meg Loughran Cappel,Meg Loughran Cappel,Senate,103,243,65,178,17,2,15,13,6,7,79,27,52
+847691k,Natalie Toro,Natalie Toro,Senate,103,95,21,74,12,2,10,1,0,1,14,4,10
+387354k,Patricia Van Pelt,Patricia Van Pelt,Senate,103,2,0,2,0,0,0,0,0,0,1,0,1
+712640k,Rachel Ventura,Rachel Ventura,Senate,103,448,82,366,46,6,40,21,0,21,68,8,60
+765743k,Sally J. Turner,Sally J. Turner,Senate,103,250,36,214,25,5,20,12,1,11,30,7,23
+194298k,Sara Feigenholtz,Sara Feigenholtz,Senate,103,235,86,149,42,22,20,8,3,5,22,8,14
+289878k,Sue Rezin,Sue Rezin,Senate,103,153,73,80,5,2,3,4,0,4,20,8,12
+477858k,Terri Bryant,Terri Bryant,Senate,103,142,44,98,17,1,16,12,4,8,20,10,10
+724177k,Amy Elik,Amy Elik,House,104,154,54,100,15,4,11,11,5,6,26,4,22
+770579k,Angelica Guerrero-Cuellar,Angelica Guerrero-Cuellar,House,104,127,38,89,11,3,8,7,3,4,17,7,10
+699437k,Barbara Hernandez,Barbara Hernandez,House,104,296,40,256,48,4,44,13,0,13,30,8,22
+477852k,Carol Ammons,Carol Ammons,House,104,148,23,125,16,2,14,9,1,8,22,4,18
+724507k,Dagmara Avelar,Dagmara Avelar,House,104,284,51,233,54,11,43,18,3,15,31,2,29
+804306k,Diane Blair-Sherlock,Diane Blair-Sherlock,House,104,248,24,224,25,1,24,13,0,13,37,4,33
+724500k,Jackie Haas,Jackie Haas,House,104,129,42,87,7,2,5,4,2,2,15,3,12
+724382k,Janet Yang Rohr,Janet Yang Rohr,House,104,263,80,183,47,9,38,17,9,8,59,18,41
+645455k,Jennifer Gong-Gershowitz,Jennifer Gong-Gershowitz,House,104,113,29,84,9,3,6,3,1,2,16,1,15
+804308k,Jennifer Sanalitro,Jennifer Sanalitro,House,104,125,24,101,7,0,7,6,0,6,18,4,14
+561037k,Katie Stuart,Katie Stuart,House,104,256,66,190,18,4,14,19,7,12,66,26,40
+343438k,Kelly M. Cassidy,Kelly M. Cassidy,House,104,345,51,294,56,9,47,16,1,15,40,4,36
+804453k,Laura Faver Dias,Laura Faver Dias,House,104,351,64,287,67,14,53,13,6,7,72,24,48
+713780k,Lindsey LaPointe,Lindsey LaPointe,House,104,215,54,161,60,29,31,7,1,6,24,1,23
+859499k,Lisa J. Davis,Lisa Davis,House,104,269,25,244,37,8,29,18,2,16,28,2,26
+936833k,Margaret A. DeLaRosa,Margaret A. DeLaRosa,House,104,66,31,35,11,7,4,1,1,0,10,2,8
+724186k,Margaret Croke,Margaret Croke,House,104,126,33,93,10,2,8,5,0,5,20,2,18
+859512k,Martha Deuter,Martha Deuter,House,104,210,41,169,22,5,17,12,3,9,14,1,13
+804395k,Mary Beth Canty,Mary Beth Canty,House,104,239,43,196,39,8,31,11,3,8,36,9,27
+839184k,Mary Gill,Mary Gill,House,104,127,30,97,15,5,10,14,1,13,10,3,7
+724387k,Maura Hirschauer,Maura Hirschauer,House,104,270,59,211,46,9,37,12,3,9,53,12,41
+289863k,Michelle Mussman,Michelle Mussman,House,104,293,43,250,53,8,45,11,0,11,54,19,35
+804387k,Nabeela Syed,Nabeela Syed,House,104,228,65,163,46,10,36,10,2,8,31,9,22
+387729k,Natalie A. Manley,Natalie A. Manley,House,104,152,33,119,24,5,19,6,0,6,9,3,6
+859564k,Nicole La Ha,Nicole La Ha,House,104,152,22,130,12,1,11,11,3,8,27,4,23
+880072k,Nicolle Grasse,Nicolle Grasse,House,104,363,26,337,78,8,70,18,0,18,39,0,39
+804492k,Norma Hernandez,Norma Hernandez,House,104,182,19,163,32,4,28,15,2,13,31,3,28
+796401k,Regan Deering,Regan Deering,House,104,82,20,62,6,3,3,2,0,2,11,6,5
+287099k,Robyn Gabel,Robyn Gabel,House,104,282,207,75,22,13,9,5,3,2,19,7,12
+804553k,Sharon Chung,Sharon Chung,House,104,224,48,176,35,9,26,16,3,13,34,7,27
+559508k,Sonya M. Harper,Sonya M. Harper,House,104,191,58,133,28,7,21,8,1,7,22,3,19
+387605k,Stephanie A. Kifowit,Stephanie A. Kifowit,House,104,202,56,146,18,7,11,41,20,21,24,3,21
+387726k,Sue Scherer,Sue Scherer,House,104,63,7,56,5,0,5,8,0,8,15,1,14
+645525k,Terra Costa Howard,Terra Costa Howard,House,104,84,20,64,11,0,11,1,0,1,10,5,5
+560990k,Theresa Mah,Theresa Mah,House,104,241,30,211,47,4,43,11,0,11,27,2,25
+859524k,Tracy Katz Muhl,Tracy Katz Muhl,House,104,177,40,137,30,4,26,9,1,8,31,11,20
+753914k,Adriane Johnson,Adriane Johnson,Senate,104,463,144,319,62,20,42,26,4,22,72,22,50
+675767k,Celina Villanueva,Celina Villanueva,Senate,104,170,101,69,18,9,9,13,7,6,24,20,4
+560946k,Cristina Castro,Cristina Castro,Senate,104,248,96,152,31,6,25,18,5,13,28,15,13
+910887k,Darby A. Hills,Darby A. Hills,Senate,104,104,32,72,5,2,3,4,1,3,21,8,13
+766559k,Doris Turner,Doris Turner,Senate,104,220,71,149,28,9,19,11,5,6,35,14,21
+247264k,Jil W. Tracy,Jil Tracy,Senate,104,176,68,108,8,3,5,4,1,3,19,8,11
+645527k,Karina Villa,Karina Villa,Senate,104,309,60,249,67,17,50,23,4,19,47,16,31
+193900k,Kimberly A. Lightford,Kimberly A. Lightford,Senate,104,179,55,124,23,7,16,11,5,6,40,10,30
+724218k,Lakesia Collins,Lakesia Collins,Senate,104,276,84,192,47,19,28,20,6,14,37,14,23
+646482k,Laura Ellman,Laura Ellman,Senate,104,151,92,59,11,5,6,1,0,1,18,12,6
+387347k,Laura Fine,Laura Fine,Senate,104,253,88,165,52,23,29,14,6,8,25,9,16
+555460k,Laura M. Murphy,Laura M. Murphy,Senate,104,300,68,232,27,5,22,11,1,10,36,7,29
+250812k,Linda Holmes,Linda Holmes,Senate,104,138,44,94,10,3,7,8,5,3,13,1,12
+671347k,Mary Edly-Allen,Mary Edly-Allen,Senate,104,428,80,348,63,6,57,16,1,15,62,15,47
+214463k,Mattie Hunter,Mattie Hunter,Senate,104,253,44,209,43,13,30,12,2,10,29,3,26
+724349k,Meg Loughran Cappel,Meg Loughran Cappel,Senate,104,182,66,116,20,5,15,8,3,5,43,26,17
+712640k,Rachel Ventura,Rachel Ventura,Senate,104,451,72,379,54,4,50,23,2,21,51,6,45
+765743k,Sally J. Turner,Sally J. Turner,Senate,104,278,83,195,18,6,12,5,1,4,33,8,25
+194298k,Sara Feigenholtz,Sara Feigenholtz,Senate,104,260,66,194,43,15,28,12,4,8,32,12,20
+289878k,Sue Rezin,Sue Rezin,Senate,104,153,94,59,5,4,1,2,2,0,14,10,4
+477858k,Terri Bryant,Terri Bryant,Senate,104,214,66,148,8,1,7,12,10,2,25,11,14
