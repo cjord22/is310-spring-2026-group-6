@@ -70,7 +70,6 @@ pip install -r requirements.txt
 | **Cleveland Museum of Art** | No | Open Access API. |
 | **Harvard Art Museums** | **Yes** | [Harvard Art Museums API](https://harvardartmuseums.org/collections/api/) |
 
-**Do not commit API keys.**
 
 ```bash
 export HARVARD_ART_API_KEY="YOUR_KEY_HERE"
@@ -112,7 +111,7 @@ df.head()
 
 ---
 
-## Citations & institutional credit (APA-style examples)
+## Citations & institutional credit
 
 Art Institute of Chicago. (*n.d.*). *Art Institute of Chicago API documentation*. Retrieved from https://api.artic.edu/docs/#quick-start
 
