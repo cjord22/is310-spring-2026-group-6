@@ -37,5 +37,5 @@ have included the original files I edited to create this data set.
 Open final-data-essay.ipynb in Jupyter and run all cells in order. Requires: pandas
 ```bash
 pip install pandas
-jupyter notebook IS310_Analysis.ipynb
+jupyter notebook final-data-essay.ipynb
 ```
