@@ -19,6 +19,8 @@
 - Some collections include items at different stages — drafts, proposals, finished works, rejected versions. You have to decide explicitly which ones to include and document that decision, because it will shape your findings either way.
 
 **Adin:**
+- Sometimes, the time you spend thinking about and planning what you have to do is just as important as what you actually do. Keep records that you can reference later, because you never know when they'll be helpful.
+- There will always be more you think you can add to try and make things more accurate or better somehow, at some point, you have to call things good enough so you can move to more important matters.
 
 **Christina:**
 
@@ -44,7 +46,9 @@
 - Data that looks complete can still be unreadable by a computational method. Four-word titles from the Arizona Legislature API existed as data, but a TF-IDF model assigned near-coin-flip scores to 524 out of 578 of those bills because titles carry almost no vocabulary. The data was there — the method simply could not read it.
 
 **Adin:**
-
+- Any change that occurs over time cannot be represented well with a map; they're designed to show you a snapshot of a space at any given time. This poses problems when looking at things like economic trends, since they're usually representative of other social forces, which can be hard to measure.
+- Median income is only one measure of the economic health of a community; ideally, I would have other measures that could shape a more holistic picture, but that is outside the scope of this project.
+- A major detail of the Mapping Inequality dataset was the inclusion of area descriptions; however, these documents are somewhat difficult to digitize due to inconsistencies in the print format and note-taking styles of different HOLC employees.
 **Christina:**
 
 **Vedha:**
@@ -69,7 +73,7 @@
 - When a model scores most items near the uncertain midpoint, that is information about your data, not your subject. It means the text is too sparse or too uniform for the method to find signal. That is a methodological finding worth reporting honestly.
 
 **Adin:**
-
+- If anything was overly repetitive, I immediately removed it. In some cases, there were fields where every entry was the same, so I removed them. I didn't fight the data, though. If trying to remove something caused errors, I left it ('Layer' field)
 **Christina:**
 
 **Vedha:**
